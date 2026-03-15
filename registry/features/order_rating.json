@@ -1,0 +1,24 @@
+{
+  "feature_name": "order_rating",
+  "source_paths": [
+    "lib/features/order_rating/"
+  ],
+  "sub_paths": {
+    "widgets": "lib/features/order_rating/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.681916+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/order_rating/widgets/feedback_column.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,159 @@
+{
+  "feature_name": "order_tracking",
+  "source_paths": [
+    "lib/features/order_tracking/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/order_tracking/model/",
+    "screens": "lib/features/order_tracking/screens/",
+    "services": "lib/features/order_tracking/services/",
+    "provider": "lib/features/order_tracking/provider/",
+    "widgets": "lib/features/order_tracking/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.682084+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "order_tracking_generic.dart",
+        "orderTracking_api_service.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/order_tracking/screens/order_tracking_summary.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/widgets/reorder_button.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/widgets/ordertrackingcard_invoicedetails.dart": {
+      "last_modified": "2026-03-05",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/widgets/reject_order.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/services/order_tracking_services.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/utils/order_tracking_utils.dart": {
+      "last_modified": "2026-02-26",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/widgets/dms/order_stage_filter_item.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/widgets/dms/manage_order_top_info_card.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/widgets/order_delivery_confirmation.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_tracking/screens/invoice_breakup_screen.dart": {
+      "last_modified": "2026-02-17",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

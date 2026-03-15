@@ -1,0 +1,302 @@
+{
+  "feature_name": "sfa_incentive",
+  "source_paths": [
+    "lib/sfa/features/incentive/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/incentive/model/",
+    "provider": "lib/sfa/features/incentive/provider/",
+    "widgets": "lib/sfa/features/incentive/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.693215+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/incentive/widgets/incentive_star_widget.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 3,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/widgets/live_incentive_update.dart": {
+      "last_modified": "2026-02-03",
+      "commit_count": 4,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/provider/incentive_provider.dart": {
+      "last_modified": "2025-12-09",
+      "commit_count": 9,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/service/incentive_service.dart": {
+      "last_modified": "2025-12-09",
+      "commit_count": 4,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/model/incentive_recommendation.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/provider/incentive_monthly_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/provider/leaderboard_incentive_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/repository/incentive_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/widgets/incentive_pop_up.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/widgets/incentive_summary.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/widgets/incentive_summary_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/model/daily_incentive_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/model/incentive_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/model/incentive_rule.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/model/score_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/repository/incentive_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/repository/incentive_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/widgets/incentive_footer_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive/widgets/incentive_summary_star_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "prateekgarg2208@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

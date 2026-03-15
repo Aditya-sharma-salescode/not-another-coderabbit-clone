@@ -1,0 +1,127 @@
+{
+  "feature_name": "ck_support_hub",
+  "source_paths": [
+    "lib/channelKart/features/support_hub/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/support_hub/screens/",
+    "provider": "lib/channelKart/features/support_hub/provider/",
+    "widgets": "lib/channelKart/features/support_hub/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.707279+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/support_hub/service/faq_transformer.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/voip_call_card.dart": {
+      "last_modified": "2026-01-19",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/provider/support_hub_provider.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/screens/support_hub_screen.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/card_shimmer.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/support_hub_detail_screen.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/complaint_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/customer_support_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/helpdesk_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/support_hub/widgets/support_hub_questions.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

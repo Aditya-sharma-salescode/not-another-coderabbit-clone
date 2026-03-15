@@ -1,0 +1,40 @@
+{
+  "feature_name": "ck_bank_help_desk",
+  "source_paths": [
+    "lib/channelKart/features/bank_help_desk/"
+  ],
+  "sub_paths": {
+    "services": "lib/channelKart/features/bank_help_desk/services/",
+    "widgets": "lib/channelKart/features/bank_help_desk/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.703186+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/bank_help_desk/screen/bank_help_desk.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "45666123+kunalbathla@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/channelKart/features/bank_help_desk/widgets/bank_helpdesk_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "45666123+kunalbathla@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/channelKart/features/bank_help_desk/services/help_desk_action.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 1,
+      "authors": [
+        "45666123+kunalbathla@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

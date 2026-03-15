@@ -1,0 +1,112 @@
+{
+  "feature_name": "secondary_product",
+  "source_paths": [
+    "lib/features/secondary_product/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/secondary_product/models/",
+    "services": "lib/features/secondary_product/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.686533+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/secondary_product/services/secondary_product_services.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 10,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "gaurav.tomar@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/secondary_product/repository/secondary_product_repository_app.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 8,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "gaurav.tomar@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/secondary_product/transformer/secondary_product_class_transformer.dart": {
+      "last_modified": "2026-01-13",
+      "commit_count": 8,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "gaurav.tomar@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/secondary_product/repository/secondary_product_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "gaurav.tomar@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/secondary_product/models/secondary_product_metadata.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "gaurav.tomar@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/secondary_product/repository/secondary_product_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "gaurav.tomar@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

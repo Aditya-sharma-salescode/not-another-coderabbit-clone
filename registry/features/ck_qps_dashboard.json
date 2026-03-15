@@ -1,0 +1,80 @@
+{
+  "feature_name": "ck_qps_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/qps_dashboard/"
+  ],
+  "sub_paths": {
+    "model": "lib/channelKart/features/qps_dashboard/model/",
+    "provider": "lib/channelKart/features/qps_dashboard/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.706729+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/qps_dashboard/widget/qps_dashboard_card.dart": {
+      "last_modified": "2026-02-26",
+      "commit_count": 5,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/analytics.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/widget/qps_dashboard.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/model/qps_achievement_ui.dart": {
+      "last_modified": "2026-01-05",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/provider/qps_provider.dart": {
+      "last_modified": "2026-01-05",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/repository/qps_achievement_repository.dart": {
+      "last_modified": "2026-01-05",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/repository/qps_achievement_repository_app.dart": {
+      "last_modified": "2026-01-05",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/qps_dashboard/repository/qps_achievement_repository_web.dart": {
+      "last_modified": "2026-01-05",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

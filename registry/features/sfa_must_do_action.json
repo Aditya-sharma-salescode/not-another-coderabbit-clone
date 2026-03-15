@@ -1,0 +1,129 @@
+{
+  "feature_name": "sfa_must_do_action",
+  "source_paths": [
+    "lib/sfa/features/must_do_action/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/must_do_action/model/",
+    "provider": "lib/sfa/features/must_do_action/provider/",
+    "widgets": "lib/sfa/features/must_do_action/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.695555+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/must_do_action/utils/must_do_action_utils.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/must_do_action/service/must_do_action_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/must_do_action/service/recommendation_validation_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/must_do_action/widgets/must_do_actions_card.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 11,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/must_do_action/widgets/must_do_action.dart": {
+      "last_modified": "2026-02-02",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/must_do_action/analytics.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/must_do_action/provider/must_do_action_provider.dart": {
+      "last_modified": "2025-12-13",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "aayush.kundu@salescode.ai",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

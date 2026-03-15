@@ -1,0 +1,127 @@
+{
+  "feature_name": "configuration",
+  "source_paths": [
+    "lib/features/configuration/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/configuration/models/"
+  },
+  "last_updated": "2026-03-15T10:12:37.672500+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/configuration/models/outlet_activity_configuration.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/configuration/models/order_return_configuration.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/configuration/models/order_configuration.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/configuration/models/catalogue_configuration.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/configuration/models/app_configuration.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/configuration/models/authentication_configuration.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/configuration/models/scheme_configuration.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

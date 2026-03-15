@@ -1,0 +1,114 @@
+{
+  "feature_name": "sku_target",
+  "source_paths": [
+    "lib/features/sku_target/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/sku_target/models/",
+    "services": "lib/features/sku_target/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.686779+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/sku_target/repository/sku_target_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 13,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sku_target/repository/sku_target_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sku_target/utils/sku_target_utils.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sku_target/models/sku_target_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sku_target/models/target_model_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sku_target/repository/sku_target_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 9,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sku_target/services/sku_target_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

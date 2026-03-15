@@ -1,0 +1,23 @@
+{
+  "feature_name": "instant_mobile_validation",
+  "source_paths": [
+    "lib/features/instant_mobile_validation/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/instant_mobile_validation/screens/"
+  },
+  "last_updated": "2026-03-15T10:12:37.676826+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/instant_mobile_validation/screens/instant_mobile_validation.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

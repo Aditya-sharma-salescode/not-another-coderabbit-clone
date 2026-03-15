@@ -1,0 +1,26 @@
+{
+  "feature_name": "app_update",
+  "source_paths": [
+    "lib/features/app_update/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/app_update/screens/"
+  },
+  "last_updated": "2026-03-15T10:12:37.669726+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/app_update/screens/app_update_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 15,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

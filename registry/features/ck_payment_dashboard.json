@@ -1,0 +1,168 @@
+{
+  "feature_name": "ck_payment_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/payment_dashboard/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/payment_dashboard/screens/",
+    "services": "lib/channelKart/features/payment_dashboard/services/",
+    "provider": "lib/channelKart/features/payment_dashboard/provider/",
+    "widgets": "lib/channelKart/features/payment_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.705617+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/payment_dashboard/widgets/payment_transaction_info.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 6,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/widgets/payment_dashboard.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 11,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/repository/payment_dashboard_repository_web.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 2,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/widgets/payment_month_summary_card.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 7,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/widgets/month_filter.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 5,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/widgets/payment_dashboard_detail.dart": {
+      "last_modified": "2026-02-24",
+      "commit_count": 3,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/widgets/payment_summary_card.dart": {
+      "last_modified": "2026-02-24",
+      "commit_count": 4,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/analytics.dart": {
+      "last_modified": "2025-12-04",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/repository/payment_dashboard_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/provider/payment_dashboard_provider.dart": {
+      "last_modified": "2025-11-30",
+      "commit_count": 4,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/repository/payment_dashboard_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/screens/payment_dashboard_detail_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/screens/payment_dashboard_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/services/payment_dashboard_service.dart": {
+      "last_modified": "2025-11-25",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_dashboard/widgets/payment_summary_form.dart": {
+      "last_modified": "2025-11-18",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

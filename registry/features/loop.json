@@ -1,0 +1,23 @@
+{
+  "feature_name": "loop",
+  "source_paths": [
+    "lib/features/loop/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.677926+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/loop/loop.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "bhavik.choudhary@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

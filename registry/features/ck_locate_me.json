@@ -1,0 +1,121 @@
+{
+  "feature_name": "ck_locate_me",
+  "source_paths": [
+    "lib/channelKart/features/locate_me/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/locate_me/screens/",
+    "services": "lib/channelKart/features/locate_me/services/",
+    "provider": "lib/channelKart/features/locate_me/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.704648+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/locate_me/screens/widget/locate_me.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/services/locate_me_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/repository/locate_me_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/repository/locate_me_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/services/locate_me_service_app.dart": {
+      "last_modified": "2024-04-16",
+      "commit_count": 5,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/services/locate_me_service_web.dart": {
+      "last_modified": "2024-04-16",
+      "commit_count": 4,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/repository/locate_me_repository.dart": {
+      "last_modified": "2024-04-16",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/locate_me/provider/locate_me_provider.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kirthi@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

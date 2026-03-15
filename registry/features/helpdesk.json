@@ -1,0 +1,244 @@
+{
+  "feature_name": "helpdesk",
+  "source_paths": [
+    "lib/features/helpdesk/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/helpdesk/models/",
+    "screens": "lib/features/helpdesk/screens/",
+    "services": "lib/features/helpdesk/services/",
+    "provider": "lib/features/helpdesk/provider/",
+    "widgets": "lib/features/helpdesk/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.676336+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/helpdesk/screens/edf_complaint_screen.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/services/helpdesk_service.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 9,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/provider/helpdesk_provider.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/screens/new_complaint_screen.dart": {
+      "last_modified": "2026-01-14",
+      "commit_count": 7,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/screens/complaint_status_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/screens/helpdesk.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/widgets/complaint_status_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/widgets/send_button.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/screens/customer_support_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/screens/edf_support.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/widgets/custom_fields.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/widgets/customer_feedback_fields.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/widgets/heading.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/helpdesk/widgets/user_details.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kshitiz.singhal@salescode.ai",
+        "manasvi@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

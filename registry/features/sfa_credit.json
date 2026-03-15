@@ -1,0 +1,124 @@
+{
+  "feature_name": "sfa_credit",
+  "source_paths": [
+    "lib/sfa/features/credit/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/credit/models/",
+    "widgets": "lib/sfa/features/credit/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.691782+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/credit/repository/credit_repository.dart": {
+      "last_modified": "2026-02-06",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/repository/credit_repository_app.dart": {
+      "last_modified": "2026-02-06",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/repository/credit_repository_web.dart": {
+      "last_modified": "2026-02-06",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/service/credit_service.dart": {
+      "last_modified": "2026-02-06",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/widgets/credit_status_more_page.dart": {
+      "last_modified": "2026-01-15",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/utils/credit_utils.dart": {
+      "last_modified": "2026-01-15",
+      "commit_count": 9,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/models/credit_model_ui.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/widgets/credit_order_widget.dart": {
+      "last_modified": "2026-01-03",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/credit/widgets/credit_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

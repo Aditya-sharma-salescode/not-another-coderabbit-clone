@@ -1,0 +1,63 @@
+{
+  "feature_name": "multiple_schemes",
+  "source_paths": [
+    "lib/features/multiple_schemes/"
+  ],
+  "sub_paths": {
+    "widgets": "lib/features/multiple_schemes/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.679507+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/multiple_schemes/widgets/scheme_discount_price_label.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 20,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/multiple_schemes/slab_label.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/multiple_schemes/widgets/schemes_dropdown.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

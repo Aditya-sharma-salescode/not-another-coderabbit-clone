@@ -1,0 +1,205 @@
+{
+  "feature_name": "catalogue",
+  "source_paths": [
+    "lib/features/catalogue/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/catalogue/model/",
+    "screens": "lib/features/catalogue/screens/",
+    "services": "lib/features/catalogue/services/",
+    "providers": "lib/features/catalogue/providers/",
+    "widgets": "lib/features/catalogue/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.671869+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "catalogue_generic.dart",
+        "catalogue_helper_generic.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/catalogue/services/catalogue_services.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/catalogue_card_widgets/quantity_based_pricing_table.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/horizontal_catalogue_card.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/catalogue_utils.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/catalogue_card_widgets/product_purchase_section.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/product_custom_status_tag.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/change_qty_btn.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/multi_uom_add_button.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/widgets/multi_uom_add_product_btn.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/repository/catalogue_repository_web.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/catalogue/repository/catalogue_repository_app.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "ayush33156@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

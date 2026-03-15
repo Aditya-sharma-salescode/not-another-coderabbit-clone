@@ -1,0 +1,36 @@
+{
+  "feature_name": "ck_sales_and_delivery_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/sales_and_delivery_dashboard/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/sales_and_delivery_dashboard/screens/",
+    "provider": "lib/channelKart/features/sales_and_delivery_dashboard/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.707117+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/sales_and_delivery_dashboard/screens/sales_and_delivery_dashboard_screen.dart": {
+      "last_modified": "2026-01-13",
+      "commit_count": 6,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/sales_and_delivery_dashboard/provider/sales_and_delivery_dashboard_provider.dart": {
+      "last_modified": "2025-12-16",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "shrey.parikh@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

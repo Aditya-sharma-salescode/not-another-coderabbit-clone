@@ -1,0 +1,188 @@
+{
+  "feature_name": "sfa_outlet_mapping",
+  "source_paths": [
+    "lib/sfa/features/outlet_mapping/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/outlet_mapping/models/",
+    "screens": "lib/sfa/features/outlet_mapping/screens/",
+    "services": "lib/sfa/features/outlet_mapping/services/",
+    "providers": "lib/sfa/features/outlet_mapping/providers/",
+    "widgets": "lib/sfa/features/outlet_mapping/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.697997+00:00",
+  "lob_context": {
+    "services": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "outlet_mapping.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/outlet_mapping/widgets/new_outlet_register.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/helper/outlet_mapping_helper.dart": {
+      "last_modified": "2026-02-14",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/providers/outlet_mapping_provider.dart": {
+      "last_modified": "2026-02-14",
+      "commit_count": 7,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/widgets/existing_outlets.dart": {
+      "last_modified": "2026-02-14",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/widgets/outlet_mapping_tabs.dart": {
+      "last_modified": "2026-02-14",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/widgets/temp_existing_outlet.dart": {
+      "last_modified": "2026-02-14",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/outlet_mapping_constants.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/services/outlet_mapping_services.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/services/outlet_form_service.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_mapping/widgets/outlet_mapping_dropdown.dart": {
+      "last_modified": "2026-02-07",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

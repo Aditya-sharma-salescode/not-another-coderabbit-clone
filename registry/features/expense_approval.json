@@ -1,0 +1,71 @@
+{
+  "feature_name": "expense_approval",
+  "source_paths": [
+    "lib/features/expense_approval/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/expense_approval/screens/",
+    "services": "lib/features/expense_approval/services/",
+    "widgets": "lib/features/expense_approval/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.675022+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/expense_approval/screens/approval_expense_Statement.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_approval/screens/approval_misc_expenditure.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_approval/screens/approval_sampling.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_approval/screens/expense_approval_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_approval/services/expense_approval_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_approval/widgets/remarks_approval.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

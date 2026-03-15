@@ -1,0 +1,32 @@
+{
+  "feature_name": "saleslens_webview",
+  "source_paths": [
+    "lib/features/saleslens_webview/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/saleslens_webview/screens/",
+    "services": "lib/features/saleslens_webview/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.686085+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/saleslens_webview/screens/saleslens_webview_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/saleslens_webview/services/saleslens_webview_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

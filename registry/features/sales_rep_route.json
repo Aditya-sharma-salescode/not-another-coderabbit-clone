@@ -1,0 +1,67 @@
+{
+  "feature_name": "sales_rep_route",
+  "source_paths": [
+    "lib/features/sales_rep_route/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/sales_rep_route/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.685889+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/sales_rep_route/services/assigned_routes_service.dart": {
+      "last_modified": "2025-12-18",
+      "commit_count": 9,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik123667@gmail.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales_rep_route/repository/assigned_routes_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik123667@gmail.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales_rep_route/repository/assigned_routes_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik123667@gmail.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales_rep_route/repository/assigned_routes_repository.dart": {
+      "last_modified": "2024-05-21",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik123667@gmail.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

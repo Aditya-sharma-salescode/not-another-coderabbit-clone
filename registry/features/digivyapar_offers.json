@@ -1,0 +1,64 @@
+{
+  "feature_name": "digivyapar_offers",
+  "source_paths": [
+    "lib/features/digivyapar_offers/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/digivyapar_offers/model/"
+  },
+  "last_updated": "2026-03-15T10:12:37.674054+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/digivyapar_offers/repository/digivyapar_coupons_repository_app.dart": {
+      "last_modified": "2026-01-13",
+      "commit_count": 2,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/digivyapar_offers/repository/digivyapar_coupons_repository_web.dart": {
+      "last_modified": "2026-01-13",
+      "commit_count": 2,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/digivyapar_offers/model/digivyapar_offers_ui.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 2,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/digivyapar_offers/repository/digivyapar_coupons_repository.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 1,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/digivyapar_offers/repository/digivyapar_crazy_Deals_repository_app.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 1,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/digivyapar_offers/repository/digivyapar_crazy_deals_repository.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 1,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/digivyapar_offers/repository/digivyapar_crazy_deals_repository_web.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 1,
+      "authors": [
+        "priyansh.sikka@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

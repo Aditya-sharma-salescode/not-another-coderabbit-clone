@@ -1,0 +1,99 @@
+{
+  "feature_name": "ck_incentive_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/incentive_dashboard/"
+  ],
+  "sub_paths": {
+    "models": "lib/channelKart/features/incentive_dashboard/models/",
+    "services": "lib/channelKart/features/incentive_dashboard/services/",
+    "providers": "lib/channelKart/features/incentive_dashboard/providers/",
+    "widgets": "lib/channelKart/features/incentive_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.704474+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/incentive_dashboard/repository/incentive_target_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/services/incentive_target_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/widgets/incentive_target_dashboard.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/models/incentive_dashboard_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/repository/incentive_target_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/widgets/incentive_target_body.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/widgets/incentive_target_header.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 7,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/providers/incentive_target_provider.dart": {
+      "last_modified": "2024-01-18",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/incentive_dashboard/repository/incentive_target_repository_web.dart": {
+      "last_modified": "2024-01-18",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

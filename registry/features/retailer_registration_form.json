@@ -1,0 +1,68 @@
+{
+  "feature_name": "retailer_registration_form",
+  "source_paths": [
+    "lib/features/retailer_registration_form/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/retailer_registration_form/screens/",
+    "services": "lib/features/retailer_registration_form/services/",
+    "provider": "lib/features/retailer_registration_form/provider/",
+    "widgets": "lib/features/retailer_registration_form/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.685054+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/retailer_registration_form/provider/retailer_registration_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/retailer_registration_form/screens/retailer_registration_form.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/retailer_registration_form/services/retailer_registration_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/retailer_registration_form/widgets/custom_textfield.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/retailer_registration_form/widgets/storetype_dropdown.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

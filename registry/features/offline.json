@@ -1,0 +1,29 @@
+{
+  "feature_name": "offline",
+  "source_paths": [
+    "lib/features/offline/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.680484+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/offline/offline_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 19,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "nikhil@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "priyanshu0627@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "suchintan.das@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

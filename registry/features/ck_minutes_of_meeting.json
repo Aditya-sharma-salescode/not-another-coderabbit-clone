@@ -1,0 +1,108 @@
+{
+  "feature_name": "ck_minutes_of_meeting",
+  "source_paths": [
+    "lib/channelKart/features/minutes_of_meeting/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/minutes_of_meeting/screens/",
+    "services": "lib/channelKart/features/minutes_of_meeting/services/",
+    "provider": "lib/channelKart/features/minutes_of_meeting/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.705118+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/minutes_of_meeting/screens/minutes_of_meeting_screen.dart": {
+      "last_modified": "2025-12-12",
+      "commit_count": 14,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/minutes_of_meeting/provider/mom_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/minutes_of_meeting/services/mom_services.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 8,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/minutes_of_meeting/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/minutes_of_meeting/repository/mom_activity_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/minutes_of_meeting/repository/mom_activity_repository.dart": {
+      "last_modified": "2025-04-02",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/minutes_of_meeting/repository/mom_activity_repository_web.dart": {
+      "last_modified": "2025-04-02",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

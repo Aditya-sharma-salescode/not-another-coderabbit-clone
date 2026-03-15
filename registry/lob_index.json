@@ -1,0 +1,564 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-03-15T10:12:37.667810+00:00",
+  "lobs": {
+    "Alsafi": {
+      "name": "Alsafi",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Bepensa": {
+      "name": "Bepensa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Cavinkare_sfa": {
+      "name": "Cavinkare_sfa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "DBSR_Perfettisfai": {
+      "name": "DBSR_Perfettisfai",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Demo_SFA": {
+      "name": "Demo_SFA",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Niine": {
+      "name": "Niine",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Paseo_sfa": {
+      "name": "Paseo_sfa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Perfettisfai": {
+      "name": "Perfettisfai",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "SFA_Generic": {
+      "name": "SFA_Generic",
+      "override_pages": [],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "Sfa_common_features": {
+      "name": "Sfa_common_features",
+      "override_pages": [
+        "run.dart",
+        "test_results.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "apollo_sfa": {
+      "name": "apollo_sfa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "ckcoe_gpt": {
+      "name": "ckcoe_gpt",
+      "override_pages": [
+        "main_test.dart",
+        "pjpOutletPage.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "coke_sri-lanka": {
+      "name": "coke_sri-lanka",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "cokearg_eb2b": {
+      "name": "cokearg_eb2b",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "cokearg_sfa": {
+      "name": "cokearg_sfa",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "cokecv_sfa": {
+      "name": "cokecv_sfa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "cokemm": {
+      "name": "cokemm",
+      "override_pages": [
+        "main_prod_test.dart"
+      ],
+      "config_keys": [
+        "supportConfig",
+        "cartReset",
+        "catalogueConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "homePageHeadersConfig",
+        "changePasswordConfig",
+        "cartConfig",
+        "invoiceConfig",
+        "Order",
+        "searchConfig",
+        "oneClickOrderConfig"
+      ],
+      "overrides": {}
+    },
+    "cokenp": {
+      "name": "cokenp",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "aboutConfig",
+        "supportConfig",
+        "supportConfig",
+        "cartReset",
+        "cartReset",
+        "catalogueConfig",
+        "catalogueConfig",
+        "myProfileConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "orderTrackingConfig",
+        "changePasswordConfig",
+        "changePasswordConfig",
+        "bannerConfig",
+        "bannerConfig",
+        "loyaltyDashboardConfig",
+        "loyaltyDashboardConfig",
+        "cartConfig",
+        "cartConfig",
+        "invoiceConfig",
+        "invoiceConfig",
+        "Order",
+        "Order",
+        "searchConfig",
+        "searchConfig",
+        "oneClickOrderConfig",
+        "oneClickOrderConfig"
+      ],
+      "overrides": {}
+    },
+    "cokenpdemo": {
+      "name": "cokenpdemo",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "cokesa_sfa": {
+      "name": "cokesa_sfa",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "cokesauat": {
+      "name": "cokesauat",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "supportConfig",
+        "cartReset",
+        "editOrderConfig",
+        "catalogueConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "changePasswordConfig",
+        "bannerConfig",
+        "loyaltyDashboardConfig",
+        "cartConfig",
+        "reorderConfig",
+        "invoiceConfig",
+        "Order",
+        "searchConfig",
+        "oneClickOrderConfig"
+      ],
+      "overrides": {}
+    },
+    "cokeslk": {
+      "name": "cokeslk",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "aboutConfig",
+        "supportConfig",
+        "supportConfig",
+        "cartReset",
+        "cartReset",
+        "catalogueConfig",
+        "catalogueConfig",
+        "myProfileConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "orderTrackingConfig",
+        "changePasswordConfig",
+        "changePasswordConfig",
+        "bannerConfig",
+        "bannerConfig",
+        "loyaltyDashboardConfig",
+        "loyaltyDashboardConfig",
+        "cartConfig",
+        "cartConfig",
+        "invoiceConfig",
+        "invoiceConfig",
+        "Order",
+        "searchConfig",
+        "searchConfig",
+        "oneClickOrderConfig",
+        "oneClickOrderConfig"
+      ],
+      "overrides": {}
+    },
+    "common_features_eb2b": {
+      "name": "common_features_eb2b",
+      "override_pages": [
+        "invoice_helper.dart",
+        "catalogue_generic.dart",
+        "pie.dart",
+        "slack.dart",
+        "reorder.dart",
+        "invoiceGenric.dart",
+        "invoice.dart",
+        "order_tracking_generic.dart",
+        "catalogue_helper_generic.dart",
+        "run.dart",
+        "myProfile.dart",
+        "FAQs.dart",
+        "cartGenric.dart",
+        "login.dart",
+        "morepage.dart",
+        "order_flow.dart",
+        "trainingSection.dart",
+        "fireBasenotification.dart",
+        "loyaltyDashboard_generic.dart",
+        "Banner.dart",
+        "orderTracking_api_service.dart",
+        "search_function.dart",
+        "cart_test.dart",
+        "condition.dart",
+        "one_Click_Order.dart",
+        "oneClickOrder.dart",
+        "changePassword.dart",
+        "common_feature_login.dart",
+        "seach_generic.dart",
+        "resetCart.dart",
+        "HomeGeneric.dart",
+        "editOrder.dart",
+        "logout.dart",
+        "Order_Summary.dart",
+        "testResult.dart",
+        "support_Generic.dart",
+        "otp_api_call.dart",
+        "order_placing.dart",
+        "homePageGenericeb2b.dart",
+        "order.feedback.dart",
+        "common_actions.dart",
+        "about_Generic.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "components": {
+      "name": "components",
+      "override_pages": [
+        "finders.dart",
+        "peformanceMonitor.dart",
+        "ConfigurablePerformanceMonitor.dart",
+        "pageSettle.dart",
+        "authToken.dart",
+        "homeValidator.dart",
+        "paginationHelper.dart",
+        "testSummary.dart",
+        "performanceResults.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "eb2b_cokeph": {
+      "name": "eb2b_cokeph",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "eb2b_dabur": {
+      "name": "eb2b_dabur",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart",
+        "device_prepper.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "eb2b_hccb": {
+      "name": "eb2b_hccb",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "eb2b_morocco": {
+      "name": "eb2b_morocco",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "gcpldemo": {
+      "name": "gcpldemo",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [
+        "supportConfig",
+        "cartReset",
+        "catalogueConfig",
+        "myProfileConfig",
+        "morepageConfig",
+        "homePageHeadersConfig",
+        "cartConfig",
+        "searchConfig"
+      ],
+      "overrides": {}
+    },
+    "helper": {
+      "name": "helper",
+      "override_pages": [
+        "common_actions.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "kbpl_sfa": {
+      "name": "kbpl_sfa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "kgbpl_STL": {
+      "name": "kgbpl_STL",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "kgbpl_sfa": {
+      "name": "kgbpl_sfa",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "moondemo": {
+      "name": "moondemo",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "supportConfig",
+        "cartReset",
+        "catalogueConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "changePasswordConfig",
+        "bannerConfig",
+        "loyaltyDashboardConfig",
+        "cartConfig",
+        "invoiceConfig",
+        "Order",
+        "searchConfig",
+        "oneClickOrderConfig"
+      ],
+      "overrides": {}
+    },
+    "services": {
+      "name": "services",
+      "override_pages": [
+        "outlet_mapping.dart",
+        "api_calls.dart",
+        "user_api.dart",
+        "recommended_API.dart",
+        "order_config_loader.dart",
+        "apiservice.dart",
+        "sales_summary_api.dart",
+        "fetch_lob.dart",
+        "fetchprods.dart"
+      ],
+      "config_keys": [],
+      "overrides": {}
+    },
+    "simamy": {
+      "name": "simamy",
+      "override_pages": [
+        "main_prod_test.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "cartReset",
+        "catalogueConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "homePageHeadersConfig",
+        "homePageHeadersConfig",
+        "cartConfig",
+        "Order",
+        "searchConfig"
+      ],
+      "overrides": {}
+    },
+    "simasg": {
+      "name": "simasg",
+      "override_pages": [
+        "main_prod_test.dart"
+      ],
+      "config_keys": [
+        "cartReset",
+        "catalogueConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "homePageHeadersConfig",
+        "homePageHeadersConfig",
+        "cartConfig",
+        "Order",
+        "searchConfig"
+      ],
+      "overrides": {}
+    },
+    "slmgdemo": {
+      "name": "slmgdemo",
+      "override_pages": [
+        "main_test.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "supportConfig",
+        "cartReset",
+        "editOrderConfig",
+        "catalogueConfig",
+        "myProfileConfig",
+        "orderTrackingConfig",
+        "changePasswordConfig",
+        "bannerConfig",
+        "loyaltyDashboardConfig",
+        "cartConfig",
+        "reorderConfig",
+        "invoiceConfig",
+        "Order",
+        "searchConfig"
+      ],
+      "overrides": {}
+    },
+    "unnati": {
+      "name": "unnati",
+      "override_pages": [
+        "main_prod_test.dart",
+        "main_test.dart",
+        "banking.dart"
+      ],
+      "config_keys": [
+        "aboutConfig",
+        "aboutConfig",
+        "supportConfig",
+        "supportConfig",
+        "cartReset",
+        "cartReset",
+        "viewAllConfig",
+        "catalogueConfig",
+        "catalogueConfig",
+        "myProfileConfig",
+        "myProfileConfig",
+        "bankingConfig",
+        "orderTrackingConfig",
+        "orderTrackingConfig",
+        "homePageHeadersConfig",
+        "changePasswordConfig",
+        "changePasswordConfig",
+        "bannerConfig",
+        "bannerConfig",
+        "loyaltyDashboardConfig",
+        "loyaltyDashboardConfig",
+        "cartConfig",
+        "cartConfig",
+        "invoiceConfig",
+        "invoiceConfig",
+        "Order",
+        "Order",
+        "searchConfig",
+        "searchConfig",
+        "oneClickOrderConfig",
+        "oneClickOrderConfig"
+      ],
+      "overrides": {}
+    }
+  }
+}

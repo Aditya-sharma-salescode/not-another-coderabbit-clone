@@ -1,0 +1,81 @@
+{
+  "feature_name": "sfa_competition_tracking",
+  "source_paths": [
+    "lib/sfa/features/competition_tracking/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/competition_tracking/screens/",
+    "services": "lib/sfa/features/competition_tracking/services/",
+    "widgets": "lib/sfa/features/competition_tracking/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.691610+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/competition_tracking/widgets/multiple_image_upload.dart": {
+      "last_modified": "2026-02-07",
+      "commit_count": 6,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/competition_tracking/widgets/datepicker_comp.dart": {
+      "last_modified": "2026-02-02",
+      "commit_count": 5,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/competition_tracking/screens/competition_tracking.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 9,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/competition_tracking/services/competition_tracking_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

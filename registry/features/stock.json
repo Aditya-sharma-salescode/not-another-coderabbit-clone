@@ -1,0 +1,99 @@
+{
+  "feature_name": "stock",
+  "source_paths": [
+    "lib/features/stock/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/stock/models/",
+    "screens": "lib/features/stock/screens/",
+    "services": "lib/features/stock/services/",
+    "provider": "lib/features/stock/provider/",
+    "widgets": "lib/features/stock/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.687617+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/stock/transformer/digi_vyapar_order_transformer.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/stock/transformer/order_transformer.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/stock/models/stock_inventory_ui_model.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/stock/transformer/generic_credit_transformer.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/stock/services/stock_services.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

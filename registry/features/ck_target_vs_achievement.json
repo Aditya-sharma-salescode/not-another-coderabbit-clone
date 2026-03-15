@@ -1,0 +1,67 @@
+{
+  "feature_name": "ck_target_vs_achievement",
+  "source_paths": [
+    "lib/channelKart/features/target_vs_achievement/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.707710+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/target_vs_achievement/widget/month_wise_analysis.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 7,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/target_vs_achievement/widget/target_vs_achievement_card.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 11,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/target_vs_achievement/screen/target_vs_achievement_screen.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 7,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/target_vs_achievement/widget/achievement_progress_bar.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 10,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/target_vs_achievement/analytics.dart": {
+      "last_modified": "2025-12-04",
+      "commit_count": 1,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/target_vs_achievement/widget/labeled_value_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "kshitiz.singhal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

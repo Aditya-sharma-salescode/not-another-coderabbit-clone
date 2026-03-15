@@ -1,0 +1,117 @@
+{
+  "feature_name": "ck_image_capture",
+  "source_paths": [
+    "lib/channelKart/features/image_capture/"
+  ],
+  "sub_paths": {
+    "models": "lib/channelKart/features/image_capture/models/",
+    "screens": "lib/channelKart/features/image_capture/screens/",
+    "services": "lib/channelKart/features/image_capture/services/",
+    "provider": "lib/channelKart/features/image_capture/provider/",
+    "widgets": "lib/channelKart/features/image_capture/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.704273+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/image_capture/screens/image_capture_screen.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 11,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/image_capture/widgets/quantity_row.dart": {
+      "last_modified": "2026-02-07",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/image_capture/provider/image_capture_provider.dart": {
+      "last_modified": "2026-02-03",
+      "commit_count": 14,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/image_capture/repository/image_capture_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/image_capture/repository/image_capture_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/image_capture/services/image_capture_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/image_capture/models/image_capture_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

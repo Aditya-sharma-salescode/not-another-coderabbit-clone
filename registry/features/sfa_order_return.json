@@ -1,0 +1,290 @@
+{
+  "feature_name": "sfa_order_return",
+  "source_paths": [
+    "lib/sfa/features/order_return/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/order_return/models/",
+    "screens": "lib/sfa/features/order_return/screens/",
+    "provider": "lib/sfa/features/order_return/provider/",
+    "widgets": "lib/sfa/features/order_return/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.696722+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/order_return/widgets/orderReturn_page_bottom_bar.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/service/return_service.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/repository/return_repository_app.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/provider/order_return_provider.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/widgets/orderReturn_inventory_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/widgets/orderReturn_page_body.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/widgets/order_return_product_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/models/invoice_sales_v3_ui.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/screens/orderReturn_page.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/screens/order_return.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/widgets/order_return_bottom_bar.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/widgets/returns_with_invoice_list.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/models/return_ui.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/repository/return_repository.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/repository/return_repository_web.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/screens/returns_invoice_selection_screen.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/order_return/widgets/order_return_button.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

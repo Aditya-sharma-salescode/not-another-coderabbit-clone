@@ -1,0 +1,59 @@
+{
+  "feature_name": "sfa_sfa_outlet_survey",
+  "source_paths": [
+    "lib/sfa/features/sfa_outlet_survey/"
+  ],
+  "sub_paths": {
+    "services": "lib/sfa/features/sfa_outlet_survey/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.700764+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/sfa_outlet_survey/repository/outlet_survey_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/sfa_outlet_survey/services/outlet_survey_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/sfa_outlet_survey/repository/outlet_survey_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/sfa_outlet_survey/repository/outlet_survey_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

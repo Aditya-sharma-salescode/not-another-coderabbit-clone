@@ -1,0 +1,228 @@
+{
+  "feature_name": "locate_me",
+  "source_paths": [
+    "lib/features/locate_me/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/locate_me/screens/",
+    "services": "lib/features/locate_me/services/",
+    "provider": "lib/features/locate_me/provider/",
+    "widgets": "lib/features/locate_me/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.677625+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/locate_me/services/location_service.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/screens/current_location_map_screen.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/widgets/address_details_bottom_sheet.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/widgets/change_location_bottom_sheet.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/provider/location_provider.dart": {
+      "last_modified": "2026-01-28",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/screens/change_location_screen.dart": {
+      "last_modified": "2026-01-28",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/widgets/delivery_location_bottom_sheet.dart": {
+      "last_modified": "2026-01-28",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/widgets/gps_disabled_snackbar.dart": {
+      "last_modified": "2026-01-28",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/screens/current_location.dart": {
+      "last_modified": "2026-01-08",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/screens/new_registeration_screen.dart": {
+      "last_modified": "2026-01-08",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/provider/locate_me_provider.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/screens/widget/locate_me.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/services/locate_me_service.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/services/locate_me_service_app.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/locate_me/services/locate_me_service_web.dart": {
+      "last_modified": "2024-02-25",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

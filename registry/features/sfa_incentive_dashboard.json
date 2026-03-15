@@ -1,0 +1,224 @@
+{
+  "feature_name": "sfa_incentive_dashboard",
+  "source_paths": [
+    "lib/sfa/features/incentive_dashboard/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/incentive_dashboard/screens/",
+    "widgets": "lib/sfa/features/incentive_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.693510+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/incentive_dashboard/screens/monthly_incentive_screen.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 13,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/screens/incentive_dashboard_screen.dart": {
+      "last_modified": "2026-03-01",
+      "commit_count": 4,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/incentives_points_card.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/screens/daily_incentive_screen.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 9,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/screens/incentive_leaderboard.dart": {
+      "last_modified": "2026-02-03",
+      "commit_count": 5,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/incentive_percent_indicator.dart": {
+      "last_modified": "2026-02-03",
+      "commit_count": 2,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/empty_leaderboard.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/empty_monthly_incentive.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/incentive_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/incentive_rank_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/incentive_terms.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/incentives_heading.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/incentive_dashboard/widgets/rank_star_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harmanpreetkbhatia1@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

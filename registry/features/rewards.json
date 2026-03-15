@@ -1,0 +1,60 @@
+{
+  "feature_name": "rewards",
+  "source_paths": [
+    "lib/features/rewards/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/rewards/models/",
+    "screens": "lib/features/rewards/screens/",
+    "services": "lib/features/rewards/services/",
+    "widgets": "lib/features/rewards/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.685251+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/rewards/services/rewards_service.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 13,
+      "authors": [
+        "nishant.jain@salescode.ai"
+      ]
+    },
+    "lib/features/rewards/external_app_service.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai"
+      ]
+    },
+    "lib/features/rewards/services/rewards_service_io.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai"
+      ]
+    },
+    "lib/features/rewards/services/rewards_service_stub.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai"
+      ]
+    },
+    "lib/features/rewards/screens/rewards_screen.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 12,
+      "authors": [
+        "nishant.jain@salescode.ai"
+      ]
+    },
+    "lib/features/rewards/models/rewards_models.dart": {
+      "last_modified": "2026-02-24",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

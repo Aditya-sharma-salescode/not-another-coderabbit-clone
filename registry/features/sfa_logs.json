@@ -1,0 +1,114 @@
+{
+  "feature_name": "sfa_logs",
+  "source_paths": [
+    "lib/sfa/features/logs/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/logs/models/",
+    "screens": "lib/sfa/features/logs/screens/",
+    "services": "lib/sfa/features/logs/services/",
+    "widgets": "lib/sfa/features/logs/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.694739+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/logs/repository/logs_repository_app.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 7,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/logs/services/logs_services.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 12,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/logs/repository/logs_repository.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/logs/repository/logs_repository_web.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/logs/models/offline_sync_ui.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/logs/widgets/log_card.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

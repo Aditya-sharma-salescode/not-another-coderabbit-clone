@@ -1,0 +1,211 @@
+{
+  "feature_name": "tab_filters",
+  "source_paths": [
+    "lib/features/tab_filters/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/tab_filters/services/",
+    "widgets": "lib/features/tab_filters/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.688377+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/tab_filters/services/tab_filters_service.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 7,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/filter_footer.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/filter_header.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/filter_options_list.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/filter_sidebar.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/multi_select_filter_sheet.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 6,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/utils/dynamic_filter_utils.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/filter_price_slider.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/selected_filter_chips.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/dynamic_filter_bar.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 4,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/dynamic_filters/components/filter_shimmer.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/catalogue_tab_filters.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tab_filters/widgets/tab_filter_widget.dart": {
+      "last_modified": "2026-01-13",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

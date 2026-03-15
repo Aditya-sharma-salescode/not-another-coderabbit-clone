@@ -1,0 +1,94 @@
+{
+  "feature_name": "biometric_auth",
+  "source_paths": [
+    "lib/features/biometric_auth/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.671174+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/biometric_auth/biometric_auth_service.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 9,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/more_options_biometric/provider/biometric_control_tile_provider.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 3,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/more_options_biometric/screen/biometric_control_tile.dart": {
+      "last_modified": "2026-02-26",
+      "commit_count": 4,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/app_lock_screen.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 3,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/biometric_auth_popups.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 7,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/biometric_auth_enums.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 3,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/biometric_response_models/biometric_registration_init_model.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/biometric_response_models/biometric_verification_init_model.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    },
+    "lib/features/biometric_auth/biometric_response_models/biometric_verification_model.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rishabh.pathak@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

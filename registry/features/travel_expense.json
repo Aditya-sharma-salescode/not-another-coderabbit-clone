@@ -1,0 +1,56 @@
+{
+  "feature_name": "travel_expense",
+  "source_paths": [
+    "lib/features/travel_expense/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/travel_expense/screens/",
+    "services": "lib/features/travel_expense/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.688865+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/travel_expense/screens/expense_statement.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 15,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/travel_expense/screens/travel_expense_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/travel_expense/services/travel_expense_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 14,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/travel_expense/screens/misc_expenditure.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/travel_expense/screens/sampling.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

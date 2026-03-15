@@ -1,0 +1,142 @@
+{
+  "feature_name": "combo_scheme",
+  "source_paths": [
+    "lib/features/combo_scheme/"
+  ],
+  "sub_paths": {
+    "provider": "lib/features/combo_scheme/provider/",
+    "widgets": "lib/features/combo_scheme/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.672097+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/combo_scheme/service/service.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 9,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/provider/compulsory_products_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/screen/combo_products_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/screen/combo_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/screen/compulsory_products_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/widgets/colorful_scheme_description.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/widgets/compulsory_products_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/widgets/scheme_description_list.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/combo_scheme/widgets/scheme_description_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "priyansh.sikka@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

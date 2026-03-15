@@ -1,0 +1,139 @@
+{
+  "feature_name": "sfa_manage_pjp",
+  "source_paths": [
+    "lib/sfa/features/manage_pjp/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/manage_pjp/models/",
+    "screens": "lib/sfa/features/manage_pjp/screens/",
+    "services": "lib/sfa/features/manage_pjp/services/",
+    "provider": "lib/sfa/features/manage_pjp/provider/",
+    "widgets": "lib/sfa/features/manage_pjp/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.694926+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/manage_pjp/models/create_pjp_ui.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/provider/manage_pjp_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/services/manage_pjp_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/widgets/create_pjp_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/screens/manage_pjp_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/widgets/edit_pjp_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/widgets/manage_pjp_disclaimer.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/widgets/manage_pjp_tab.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/manage_pjp/widgets/week_dropdown.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

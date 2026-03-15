@@ -1,0 +1,630 @@
+{
+  "feature_name": "sfa_pjp_tracking",
+  "source_paths": [
+    "lib/sfa/features/pjp_tracking/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/pjp_tracking/models/",
+    "screens": "lib/sfa/features/pjp_tracking/screens/",
+    "services": "lib/sfa/features/pjp_tracking/services/",
+    "provider": "lib/sfa/features/pjp_tracking/provider/",
+    "widgets": "lib/sfa/features/pjp_tracking/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.698967+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/pjp_tracking/provider/pjp_plan_provider.dart": {
+      "last_modified": "2026-01-27",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/services/pjp_tracking_services.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 5,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/models/pjp_for_day_info.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/provider/pjp_tracking_provider.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 5,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/deviate_pjp_form.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 7,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/deviation_approval_visit_plan.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 5,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_deviation_approval_card.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 6,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/provider/deviation_pjp_form_provider.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 6,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/deviation_save_button.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_form.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_plan_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_tracking_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/custom_calender.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/custom_open_calender.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_approval_dropdown.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_for_day_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_for_day_template2.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_for_day_template3.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_plan_summary.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_plan_summary_section.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_plan_tracking_tab.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_status_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_status_ui.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_summary_section.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_tracking_tab.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_tracking_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/save_pjp_button.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/submit_pjp_button.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/constants/pjp_plan_constants.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/models/pjp_approval_body.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/models/pjp_deviation_approval_request_body.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/models/pjp_summary_option.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_approval_deviation_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_approval_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_deviation_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_plan_approval.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/screens/pjp_plan_approval_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_beat_table.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_deviation_appbar.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_deviation_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_deviation_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_for_day_plan_badge.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_holiday_badge.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/pjp_plan_visit.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/town_column.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/town_row.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/pjp_tracking/widgets/visit_plan_row.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

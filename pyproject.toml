@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "pr-reviewer"
+version = "1.0.0"
+description = "AI-powered PR reviewer for channelkart-flutter"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.1",
+    "anthropic>=0.40.0",
+    "httpx>=0.27.0",
+    "python-dotenv>=1.0.0",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-asyncio>=0.23"]
+
+[project.scripts]
+pr-reviewer = "reviewer.main:cli"
+
+[tool.setuptools.packages.find]
+include = ["reviewer*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

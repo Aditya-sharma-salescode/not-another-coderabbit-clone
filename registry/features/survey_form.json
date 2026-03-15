@@ -1,0 +1,31 @@
+{
+  "feature_name": "survey_form",
+  "source_paths": [
+    "lib/features/survey_form/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/survey_form/screens/"
+  },
+  "last_updated": "2026-03-15T10:12:37.688217+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/survey_form/screens/survey_form_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/survey_form/screens/survey_question.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

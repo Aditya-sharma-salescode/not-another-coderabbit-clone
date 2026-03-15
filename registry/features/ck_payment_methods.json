@@ -1,0 +1,175 @@
+{
+  "feature_name": "ck_payment_methods",
+  "source_paths": [
+    "lib/channelKart/features/payment_methods/"
+  ],
+  "sub_paths": {
+    "models": "lib/channelKart/features/payment_methods/models/",
+    "screens": "lib/channelKart/features/payment_methods/screens/",
+    "services": "lib/channelKart/features/payment_methods/services/",
+    "providers": "lib/channelKart/features/payment_methods/providers/",
+    "widgets": "lib/channelKart/features/payment_methods/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.705884+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/payment_methods/analytics.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/providers/qr_timer_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/screens/payment_methods_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/screens/payment_otp_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/screens/payment_processing_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/screens/payment_response_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/screens/qr_payment_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/services/fluid_sdk_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/services/payment_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/widgets/payment_option.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/widgets/otp_input.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/payment_methods/widgets/otp_screen_disclaimers.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

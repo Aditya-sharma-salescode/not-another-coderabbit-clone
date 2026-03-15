@@ -1,0 +1,173 @@
+{
+  "feature_name": "sfa_day_end",
+  "source_paths": [
+    "lib/sfa/features/day_end/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/day_end/models/",
+    "screens": "lib/sfa/features/day_end/screens/",
+    "providers": "lib/sfa/features/day_end/providers/"
+  },
+  "last_updated": "2026-03-15T10:12:37.692070+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/day_end/screens/day_end_order_report.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/repository/day_end_repository_app.dart": {
+      "last_modified": "2026-01-15",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/service/day_end_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/repository/day_end_repository.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/repository/day_end_repository_web.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/screens/day_end_history_card.dart": {
+      "last_modified": "",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/screens/day_end_screen.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/models/day_end_ui.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/providers/day_end_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/screens/db_feedback.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/screens/dbsm_psr_ssm_rating.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_end/screens/dse_rating.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

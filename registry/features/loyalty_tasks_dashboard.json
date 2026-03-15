@@ -1,0 +1,225 @@
+{
+  "feature_name": "loyalty_tasks_dashboard",
+  "source_paths": [
+    "lib/features/loyalty_tasks_dashboard/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/loyalty_tasks_dashboard/model/",
+    "provider": "lib/features/loyalty_tasks_dashboard/provider/",
+    "widgets": "lib/features/loyalty_tasks_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.678254+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/loyalty_tasks_dashboard/screen/scan_and_win_screen.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 9,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/service/loyalty_task_dashboard_service.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 13,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/screen/loyalty_task_screen.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/utils/loyalty_tasks_dashboard_utils.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/widgets/earned_point_progress_bar.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/provider/loyalty_tasks_dashboard_provider.dart": {
+      "last_modified": "2026-02-20",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/utils/GifPlayer.dart": {
+      "last_modified": "2026-02-20",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/widgets/loyalty_specific_task_card.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/model/task_card_model.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/repository/loyalty_rewards_repository.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/repository/loyalty_rewards_repository_app.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/repository/loyalty_rewards_repository_web.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/screen/loyalty_dashboard_task_status_screen.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/screen/loyalty_dashboard_task_wise_screen.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/widgets/loyalty_rewards_shimmer.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/loyalty_tasks_dashboard/widgets/loyalty_task_list.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

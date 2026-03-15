@@ -1,0 +1,44 @@
+{
+  "feature_name": "ck_order_cancellation_reason",
+  "source_paths": [
+    "lib/channelKart/features/order_cancellation_reason/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/order_cancellation_reason/screens/",
+    "services": "lib/channelKart/features/order_cancellation_reason/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.705294+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/order_cancellation_reason/screens/order_cancellation_reason.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "rishabh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "manpreet.singh@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/order_cancellation_reason/services/order_cancellation_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "rishabh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "manpreet.singh@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

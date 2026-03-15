@@ -1,0 +1,198 @@
+{
+  "feature_name": "sfa_empties_inventory.dart",
+  "source_paths": [
+    "lib/sfa/features/empties_inventory.dart/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/empties_inventory.dart/model/",
+    "screens": "lib/sfa/features/empties_inventory.dart/screens/",
+    "provider": "lib/sfa/features/empties_inventory.dart/provider/",
+    "widgets": "lib/sfa/features/empties_inventory.dart/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.692777+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_product_button.dart": {
+      "last_modified": "2026-02-17",
+      "commit_count": 5,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/screens/empties_inventory_cart_page.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/screens/empties_inventory_screen.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 5,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_edit_button.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_product_card.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_card.dart": {
+      "last_modified": "2026-02-07",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/repository/empties_inventory_repository.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/repository/empties_inventory_repository_app.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/repository/empties_inventory_repository_web.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/service/empties_inventory_service.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_add_button.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/provider/empties_inventory_provider.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/model/empties_status_ui.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_bottom_bar.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_cart_page_header.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/emties_inventory_cart_page_bottom_bar.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/model/empties_inventory_ui.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/empties_inventory.dart/widgets/empties_inventory_card_list.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "nishantpuri1331@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

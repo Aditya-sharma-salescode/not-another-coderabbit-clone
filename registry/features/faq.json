@@ -1,0 +1,121 @@
+{
+  "feature_name": "faq",
+  "source_paths": [
+    "lib/features/faq/"
+  ],
+  "sub_paths": {
+    "provider": "lib/features/faq/provider/",
+    "widgets": "lib/features/faq/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.675467+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "FAQs.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/faq/repository/faq_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ridsuteri@gmail.com",
+        "vansh.aggarwal@salescode.ai",
+        "bhavik.choudhary@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/faq/screen/faq_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ridsuteri@gmail.com",
+        "vansh.aggarwal@salescode.ai",
+        "bhavik.choudhary@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/faq/repository/faq_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ridsuteri@gmail.com",
+        "vansh.aggarwal@salescode.ai",
+        "bhavik.choudhary@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/faq/repository/faq_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ridsuteri@gmail.com",
+        "vansh.aggarwal@salescode.ai",
+        "bhavik.choudhary@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/faq/widgets/faq_container.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ridsuteri@gmail.com",
+        "vansh.aggarwal@salescode.ai",
+        "bhavik.choudhary@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    },
+    "lib/features/faq/provider/faq_provider.dart": {
+      "last_modified": "2024-03-18",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "mohit_soni@applicatetechnology.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ridsuteri@gmail.com",
+        "vansh.aggarwal@salescode.ai",
+        "bhavik.choudhary@applicatetechnology.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

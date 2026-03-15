@@ -1,0 +1,155 @@
+{
+  "feature_name": "tax_calculation",
+  "source_paths": [
+    "lib/features/tax_calculation/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/tax_calculation/models/"
+  },
+  "last_updated": "2026-03-15T10:12:37.688628+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/tax_calculation/factory/tax_enrichment_factory.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/models/tax_ui_model.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/repository/tax_repository.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/repository/tax_repository_app.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/repository/tax_repository_web.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/service/tax_service.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 6,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/repository/tax_details_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/models/tax_details_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/repository/tax_details_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/tax_calculation/repository/tax_details_repository.dart": {
+      "last_modified": "2025-07-09",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

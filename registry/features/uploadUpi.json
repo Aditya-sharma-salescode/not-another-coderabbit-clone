@@ -1,0 +1,49 @@
+{
+  "feature_name": "uploadUpi",
+  "source_paths": [
+    "lib/features/uploadUpi/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/uploadUpi/screens/",
+    "provider": "lib/features/uploadUpi/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.689201+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/uploadUpi/provider/upload_upi_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ishan.chopra@salescode.ai",
+        "suchintan.das@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/uploadUpi/service/upload_upi_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ishan.chopra@salescode.ai",
+        "suchintan.das@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/uploadUpi/screens/upload_upi_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "ishan.chopra@salescode.ai",
+        "suchintan.das@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

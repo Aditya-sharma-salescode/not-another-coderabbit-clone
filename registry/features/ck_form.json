@@ -1,0 +1,256 @@
+{
+  "feature_name": "ck_form",
+  "source_paths": [
+    "lib/channelKart/features/form/"
+  ],
+  "sub_paths": {
+    "models": "lib/channelKart/features/form/models/",
+    "services": "lib/channelKart/features/form/services/",
+    "provider": "lib/channelKart/features/form/provider/",
+    "widgets": "lib/channelKart/features/form/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.704000+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/form/models/response_info.dart": {
+      "last_modified": "2026-01-23",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/custom_form_dropdown.dart": {
+      "last_modified": "2026-01-19",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/models/form_attributes.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/models/mom_form_ui.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/provider/form_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/form_feature_enums.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/models/form_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/models/outlet_activity_form_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/services/form_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/services/outlet_activity_form_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/utils/form_utils.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/dropdown_label.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/form_camera.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/form_dropdown.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/form_textfield.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/multi_select_popup.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/form/widgets/custom_form_multidropdown.dart": {
+      "last_modified": "2025-03-18",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,225 @@
+{
+  "feature_name": "notifications",
+  "source_paths": [
+    "lib/features/notifications/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/notifications/screens/",
+    "services": "lib/features/notifications/services/",
+    "widgets": "lib/features/notifications/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.679820+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/notifications/analytics.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/screens/notification_screen.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/services/notifications_service.dart": {
+      "last_modified": "2025-12-30",
+      "commit_count": 7,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/screens/youtube_player_dialog.dart": {
+      "last_modified": "2025-12-08",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/screens/video_player_dialog.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/services/firebase_messaging_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/services/notification_service_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/services/notification_service_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/widgets/notification_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/screens/Single_tv_ads_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/screens/tv_adds_thumbnail_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/screens/youtube_player_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/features/notifications/utils/fcm_utils.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "mailidfornishantjain@gmail.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "bhavik123667@gmail.com",
+        "sharma.aditya9164@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

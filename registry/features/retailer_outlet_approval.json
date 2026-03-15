@@ -1,0 +1,198 @@
+{
+  "feature_name": "retailer_outlet_approval",
+  "source_paths": [
+    "lib/features/retailer_outlet_approval/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/retailer_outlet_approval/models/",
+    "screens": "lib/features/retailer_outlet_approval/screens/",
+    "provider": "lib/features/retailer_outlet_approval/provider/",
+    "widgets": "lib/features/retailer_outlet_approval/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.684551+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/retailer_outlet_approval/widgets/retailer_approval_outlet_card.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 15,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/widgets/vendor_card.dart": {
+      "last_modified": "2026-02-13",
+      "commit_count": 6,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/provider/retailer_approval_provider.dart": {
+      "last_modified": "2026-01-06",
+      "commit_count": 4,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/screens/vendor_requests.dart": {
+      "last_modified": "2026-01-06",
+      "commit_count": 4,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/widgets/empty_approval.dart": {
+      "last_modified": "2026-01-06",
+      "commit_count": 3,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/models/retailer_approval_outlet_ui.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/screens/retailer_approval_page.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/service/retailer_approval_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/widgets/request_status_tabs.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/widgets/retailer_approval_count.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/repository/retailer_approval_repo_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/repository/retailer_approval_repo_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/repository/retailer_approval_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/widgets/retailer_approval_outlet_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_approval/widgets/retailer_approval_outlet_search.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "akansh.jain@salescode.ai",
+        "komal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,93 @@
+{
+  "feature_name": "sfa_new_outlet_addition",
+  "source_paths": [
+    "lib/sfa/features/new_outlet_addition/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/new_outlet_addition/screens/",
+    "widgets": "lib/sfa/features/new_outlet_addition/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.695772+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/new_outlet_addition/screens/outlet_mapping_home.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/new_outlet_addition/screens/all_new_outlets_home.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/new_outlet_addition/screens/outlets_map_home.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/new_outlet_addition/widgets/fill_outlet_details_form.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 9,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/new_outlet_addition/widgets/new_outlet_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/new_outlet_addition/widgets/outlet_image_carousle.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/new_outlet_addition/widgets/outlet_mapping_inner_tabs.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

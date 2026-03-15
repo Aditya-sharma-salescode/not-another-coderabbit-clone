@@ -1,0 +1,97 @@
+{
+  "feature_name": "sfa_live_update",
+  "source_paths": [
+    "lib/sfa/features/live_update/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/live_update/models/",
+    "provider": "lib/sfa/features/live_update/provider/",
+    "widgets": "lib/sfa/features/live_update/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.694528+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/live_update/widgets/live_update.dart": {
+      "last_modified": "2026-02-03",
+      "commit_count": 13,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "gaurav.tomar@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "manpreet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/live_update/provider/live_update_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "gaurav.tomar@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "manpreet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/live_update/widgets/live_dashboard_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "gaurav.tomar@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "manpreet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/live_update/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "gaurav.tomar@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "manpreet.singh@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/live_update/models/live_update_dashboard_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "gaurav.tomar@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "manpreet.singh@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

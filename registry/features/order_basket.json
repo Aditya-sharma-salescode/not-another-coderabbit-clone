@@ -1,0 +1,87 @@
+{
+  "feature_name": "order_basket",
+  "source_paths": [
+    "lib/features/order_basket/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/order_basket/screens/",
+    "provider": "lib/features/order_basket/provider/",
+    "widgets": "lib/features/order_basket/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.681263+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/order_basket/widgets/order_basket.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_basket/provider/basket_screen_provider.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 14,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_basket/screens/company_basket_view_screen_body.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 6,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_basket/widgets/basket_company_sidebar.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_basket/screens/company_basket_view_screen.dart": {
+      "last_modified": "2026-01-18",
+      "commit_count": 10,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "lakshya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

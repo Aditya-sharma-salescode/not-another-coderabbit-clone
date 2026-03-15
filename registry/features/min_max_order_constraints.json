@@ -1,0 +1,71 @@
+{
+  "feature_name": "min_max_order_constraints",
+  "source_paths": [
+    "lib/features/min_max_order_constraints/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/min_max_order_constraints/model/",
+    "services": "lib/features/min_max_order_constraints/services/",
+    "widgets": "lib/features/min_max_order_constraints/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.678698+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/min_max_order_constraints/model/order_constraint_ui.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/min_max_order_constraints/repository/order_constraints_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/min_max_order_constraints/services/order_constraints_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/min_max_order_constraints/repository/order_constraints_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/min_max_order_constraints/repository/order_constraints_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/min_max_order_constraints/widgets/order_constraint_label.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

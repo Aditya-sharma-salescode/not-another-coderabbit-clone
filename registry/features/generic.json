@@ -1,0 +1,40 @@
+{
+  "feature_name": "generic",
+  "source_paths": [
+    "lib/features/generic/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/generic/models/"
+  },
+  "last_updated": "2026-03-15T10:12:37.675857+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "catalogue_generic.dart",
+        "order_tracking_generic.dart",
+        "catalogue_helper_generic.dart",
+        "loyaltyDashboard_generic.dart",
+        "seach_generic.dart",
+        "HomeGeneric.dart",
+        "support_Generic.dart",
+        "homePageGenericeb2b.dart",
+        "about_Generic.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/generic/models/operation_result.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

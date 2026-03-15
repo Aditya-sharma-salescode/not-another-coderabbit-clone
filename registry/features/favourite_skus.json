@@ -1,0 +1,112 @@
+{
+  "feature_name": "favourite_skus",
+  "source_paths": [
+    "lib/features/favourite_skus/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/favourite_skus/services/",
+    "widgets": "lib/features/favourite_skus/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.675670+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/favourite_skus/services/favourite_skus_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "ridsuteri@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com"
+      ]
+    },
+    "lib/features/favourite_skus/repository/favourite_skus_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "ridsuteri@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com"
+      ]
+    },
+    "lib/features/favourite_skus/repository/favourite_skus_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "ridsuteri@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com"
+      ]
+    },
+    "lib/features/favourite_skus/widgets/add_fav_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "ridsuteri@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com"
+      ]
+    },
+    "lib/features/favourite_skus/widgets/outlet_favourites.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "ridsuteri@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com"
+      ]
+    },
+    "lib/features/favourite_skus/repository/favourite_skus_repository.dart": {
+      "last_modified": "2024-04-09",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "ridsuteri@gmail.com",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

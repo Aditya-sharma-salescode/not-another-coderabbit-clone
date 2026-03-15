@@ -1,0 +1,210 @@
+{
+  "feature_name": "operations",
+  "source_paths": [
+    "lib/features/operations/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/operations/models/",
+    "services": "lib/features/operations/services/",
+    "providers": "lib/features/operations/providers/",
+    "widgets": "lib/features/operations/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.680629+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/operations/screen/operation_screen.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/services/operations_service.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 10,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_contract_repository_web.dart": {
+      "last_modified": "2026-02-11",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_repository_web.dart": {
+      "last_modified": "2026-02-11",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_repositoty_web.dart": {
+      "last_modified": "2026-02-11",
+      "commit_count": 4,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/providers/operations_provider.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 7,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_contract_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/services/operations_contract_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/utils/operation_utils.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/widgets/operation_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/models/operations_contract_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/models/operations_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_contract_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/widgets/operations_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/operations/repository/operations_repository.dart": {
+      "last_modified": "2025-08-20",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

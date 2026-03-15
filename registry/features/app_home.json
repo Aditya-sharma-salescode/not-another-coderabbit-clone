@@ -1,0 +1,129 @@
+{
+  "feature_name": "app_home",
+  "source_paths": [
+    "lib/features/app_home/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/app_home/screens/",
+    "provider": "lib/features/app_home/provider/",
+    "widgets": "lib/features/app_home/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.669491+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/app_home/utils/app_home_utils.dart": {
+      "last_modified": "2026-02-24",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/app_home/utils/app_home_constants.dart": {
+      "last_modified": "2026-02-20",
+      "commit_count": 9,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/app_home/screens/app_home_container.dart": {
+      "last_modified": "2026-02-03",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/app_home/widgets/app_home_widget.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/app_home/widgets/app_home_bottom_bar.dart": {
+      "last_modified": "2025-12-19",
+      "commit_count": 6,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/app_home/widgets/bottom_bar_icon.dart": {
+      "last_modified": "2025-12-04",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/app_home/widgets/app_home_body.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

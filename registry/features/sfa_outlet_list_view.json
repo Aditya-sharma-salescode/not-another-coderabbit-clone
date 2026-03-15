@@ -1,0 +1,129 @@
+{
+  "feature_name": "sfa_outlet_list_view",
+  "source_paths": [
+    "lib/sfa/features/outlet_list_view/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/outlet_list_view/screens/",
+    "provider": "lib/sfa/features/outlet_list_view/provider/",
+    "widgets": "lib/sfa/features/outlet_list_view/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.697765+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/outlet_list_view/widgets/visit_status_filters.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_list_view/widgets/no_recommendations_outlet_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_list_view/widgets/recommendations_outlet_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 4,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_list_view/widgets/outlet_card.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_list_view/widgets/outlet_dropdowns_cards.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 3,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_list_view/provider/outlets_screen_provider.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 4,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_list_view/widgets/outlet_list.dart": {
+      "last_modified": "2026-02-09",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prashant.shukla@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

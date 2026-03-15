@@ -1,0 +1,253 @@
+{
+  "feature_name": "ck_loyalty_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/loyalty_dashboard/"
+  ],
+  "sub_paths": {
+    "models": "lib/channelKart/features/loyalty_dashboard/models/",
+    "screens": "lib/channelKart/features/loyalty_dashboard/screens/",
+    "services": "lib/channelKart/features/loyalty_dashboard/services/",
+    "provider": "lib/channelKart/features/loyalty_dashboard/provider/",
+    "widgets": "lib/channelKart/features/loyalty_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.704850+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/loyalty_dashboard/provider/loyalty_dashboard_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/repository/loyalty_dashboard_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/repository/loyalty_dashboard_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/screens/loyalty_points_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/screens/loyalty_products_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/services/loyalty_dashboard_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_breakup_point.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_dashboard.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_dashboard_header.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_month_tabs.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/models/breakup_point_values.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/repository/loyalty_dashboard_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/screens/loyalty_products_subscreen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_banner.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_breakup_points_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_dashboard_body.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_points_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/loyalty_dashboard/widgets/loyalty_progress_status.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

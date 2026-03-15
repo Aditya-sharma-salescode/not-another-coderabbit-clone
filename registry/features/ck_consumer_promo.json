@@ -1,0 +1,177 @@
+{
+  "feature_name": "ck_consumer_promo",
+  "source_paths": [
+    "lib/channelKart/features/consumer_promo/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/consumer_promo/screens/",
+    "services": "lib/channelKart/features/consumer_promo/services/",
+    "widgets": "lib/channelKart/features/consumer_promo/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.703343+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/consumer_promo/widgets/BarcodeScannerWidget.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/services/consumer_promo_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 6,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/services/consumer_promo_service_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/widgets/consumer_promo_steps_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/widgets/enter_promo_code.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/widgets/pop_ups.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/widgets/promo_scan.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/screens/consumer_promo.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/screens/consumer_promo_subscreen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/consumer_promo/widgets/redemeed.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "akash.arora@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "bhavik123667@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

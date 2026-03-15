@@ -1,0 +1,228 @@
+{
+  "feature_name": "sfa_skill_dashboard",
+  "source_paths": [
+    "lib/sfa/features/skill_dashboard/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/skill_dashboard/model/",
+    "screens": "lib/sfa/features/skill_dashboard/screens/",
+    "services": "lib/sfa/features/skill_dashboard/services/",
+    "provider": "lib/sfa/features/skill_dashboard/provider/",
+    "widgets": "lib/sfa/features/skill_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.700915+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/skill_dashboard/widgets/sales_rep_card_widget.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 1,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/overall_performance_widget.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/rank_details.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/score_display.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/quadrant_filter_dropdown.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 3,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/skill_dashboard.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/skill_dashboard_search_bar.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/analytics.dart": {
+      "last_modified": "2026-01-22",
+      "commit_count": 1,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/level_up_performance_widget_supervisor.dart": {
+      "last_modified": "2026-01-22",
+      "commit_count": 5,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/model/skill_dashboard_models.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/provider/skill_dashboard_provider.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 4,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/screens/sales_rep_details_screen.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/model/saleslens_ui.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/rank_details_list_widget.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/filter_tab.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/time_filter_tabs.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/performance_distribution_widget.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/services/skill_dashboard_service.dart": {
+      "last_modified": "2026-01-17",
+      "commit_count": 1,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/skill_dashboard/widgets/heading_widget.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 1,
+      "authors": [
+        "hiya.arora@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,144 @@
+{
+  "feature_name": "expense_summary",
+  "source_paths": [
+    "lib/features/expense_summary/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/expense_summary/models/",
+    "screens": "lib/features/expense_summary/screens/",
+    "services": "lib/features/expense_summary/services/",
+    "widgets": "lib/features/expense_summary/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.675225+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/expense_summary/models/expandable_expense.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/screens/expense_summary_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/screens/summary_expense_statement.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/screens/summary_misc_expenditure.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/screens/summary_sampling.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/widgets/detailed_statement.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/widgets/total_Statement_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/models/detailed_statement.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/services/expandable_expense_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 8,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/services/expense_summary_services.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 9,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/widgets/expandable_expense_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/models/total_statement.dart": {
+      "last_modified": "2024-11-14",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/services/detailed_statement_service.dart": {
+      "last_modified": "2024-11-04",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/expense_summary/services/total_statement_service.dart": {
+      "last_modified": "2024-11-04",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

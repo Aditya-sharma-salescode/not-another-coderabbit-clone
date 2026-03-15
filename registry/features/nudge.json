@@ -1,0 +1,127 @@
+{
+  "feature_name": "nudge",
+  "source_paths": [
+    "lib/features/nudge/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/nudge/model/",
+    "provider": "lib/features/nudge/provider/",
+    "widgets": "lib/features/nudge/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.680098+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/nudge/widgets/outlet_list.dart": {
+      "last_modified": "2025-11-28",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/repository/nudge_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/repository/nudge_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/service/nudge_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/model/nudge_model_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/screen/nudge_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/widgets/salesrep_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 7,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/provider/nudge_provider.dart": {
+      "last_modified": "2024-07-23",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/repository/nudge_repository.dart": {
+      "last_modified": "2024-07-23",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/nudge/utils/constants.dart": {
+      "last_modified": "2024-07-23",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

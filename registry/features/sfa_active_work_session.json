@@ -1,0 +1,140 @@
+{
+  "feature_name": "sfa_active_work_session",
+  "source_paths": [
+    "lib/sfa/features/active_work_session/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/active_work_session/models/",
+    "screens": "lib/sfa/features/active_work_session/screens/",
+    "services": "lib/sfa/features/active_work_session/services/",
+    "provider": "lib/sfa/features/active_work_session/provider/",
+    "widgets": "lib/sfa/features/active_work_session/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.690315+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/active_work_session/services/active_work_service.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 16,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/widgets/active_work_session_card.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 7,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/respository/active_work_session_repository.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/respository/active_work_session_repository_app.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/respository/active_work_session_repository_web.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/models/daily_target_ui.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/provider/active_work_session_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/screens/active_work_session_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/widgets/active_work_session_timer.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/widgets/unvisited_outlets_list.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/active_work_session/models/day_end_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

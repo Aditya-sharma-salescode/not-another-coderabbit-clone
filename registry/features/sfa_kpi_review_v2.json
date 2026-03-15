@@ -1,0 +1,356 @@
+{
+  "feature_name": "sfa_kpi_review_v2",
+  "source_paths": [
+    "lib/sfa/features/kpi_review_v2/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/kpi_review_v2/model/",
+    "screens": "lib/sfa/features/kpi_review_v2/screens/",
+    "providers": "lib/sfa/features/kpi_review_v2/providers/",
+    "widgets": "lib/sfa/features/kpi_review_v2/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.693891+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/kpi_review_v2/widgets/table_builder.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/utils/kpi_v2_utils.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 11,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/constants/kpiConstants.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/service/kpi_v2_service.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/screens/kpi_user_detail_screen.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/salesrep_overview_card_builder.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/salesrep_table_builder.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/summary_card_builder.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/tile_builder.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/toggle_data_builder.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/providers/kpi_summary_screen_provider.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/providers/kpi_supervisor_summary_screen_provider.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/kpi_table_pagination_bar.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/model/kpi_v2_ui.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/model/widget_state.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/model/widget_state_manager.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/models/kpi_v2_ui.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/providers/kpi_home_screen_view_provider.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/repository/kpi_repository.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/repository/kpi_repository_app.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/repository/kpi_repository_web.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/screens/kpi_home_screen_view.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/screens/kpi_supervisor_summary_screen.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/salesrep_count.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/tab_builder.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/kpi_review_v2/widgets/toggle_builder.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "akansh.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,54 @@
+{
+  "feature_name": "ck_banded_pricing",
+  "source_paths": [
+    "lib/channelKart/features/banded_pricing/"
+  ],
+  "sub_paths": {
+    "services": "lib/channelKart/features/banded_pricing/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.702713+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/banded_pricing/services/banded_pricing_service.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 18,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "manpreet.singh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/banded_pricing/services/banded_pricing_service_web.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "manpreet.singh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/banded_pricing/services/banded_pricing_service_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "manpreet.singh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,47 @@
+{
+  "feature_name": "quick_redirect",
+  "source_paths": [
+    "lib/features/quick_redirect/"
+  ],
+  "sub_paths": {
+    "widgets": "lib/features/quick_redirect/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.683748+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/quick_redirect/widgets/quick_redirect_widget.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 16,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "aayush.sharma@salescode.ai",
+        "bhavik123667@gmail.com",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/quick_redirect/widgets/redirect_item.dart": {
+      "last_modified": "2025-12-30",
+      "commit_count": 7,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "aayush.sharma@salescode.ai",
+        "bhavik123667@gmail.com",
+        "saiyam.verma@salescode.ai",
+        "vishnu.pv@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

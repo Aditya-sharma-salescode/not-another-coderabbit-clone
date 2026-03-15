@@ -1,0 +1,79 @@
+{
+  "feature_name": "dynamic_pricing",
+  "source_paths": [
+    "lib/features/dynamic_pricing/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.674857+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/dynamic_pricing/repository/dynamic_pricing_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/dynamic_pricing/service/dynamic_pricing_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 13,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/dynamic_pricing/service/dynamic_pricing_service_app.dart": {
+      "last_modified": "2024-06-10",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/dynamic_pricing/service/dynamic_pricing_service_web.dart": {
+      "last_modified": "2024-06-10",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/dynamic_pricing/repository/dynamic_pricing_repository.dart": {
+      "last_modified": "2024-04-09",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/dynamic_pricing/repository/dynamic_pricing_repository_app.dart": {
+      "last_modified": "2024-04-09",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

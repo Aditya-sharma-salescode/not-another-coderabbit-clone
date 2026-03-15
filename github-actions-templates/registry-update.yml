@@ -1,0 +1,89 @@
+name: Registry Update
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'lib/**'
+
+concurrency:
+  group: registry-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Update Feature Registry
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout Flutter repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Checkout PR Reviewer tool
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/pr-reviewer
+          token: ${{ secrets.REGISTRY_WRITE_TOKEN }}
+          path: pr-reviewer
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: pr-reviewer/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r pr-reviewer/requirements.txt
+
+      - name: Extract Jira key from merge commit
+        id: jira
+        run: |
+          COMMIT_MSG=$(git log --format="%s" -n 1)
+          echo "commit_msg=$COMMIT_MSG" >> $GITHUB_OUTPUT
+          # Extract Jira key (e.g., CSLC-235, COCA-850)
+          JIRA_KEY=$(echo "$COMMIT_MSG" | grep -oE '[A-Z]+-[0-9]+' | head -1 || echo "")
+          echo "key=$JIRA_KEY" >> $GITHUB_OUTPUT
+
+      - name: Get changed feature files
+        id: files
+        run: |
+          CHANGED=$(git diff --name-only HEAD~1 HEAD -- lib/ | tr '\n' ',')
+          echo "changed=$CHANGED" >> $GITHUB_OUTPUT
+
+      - name: Update registry
+        env:
+          JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
+          JIRA_EMAIL: ${{ secrets.JIRA_EMAIL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+          ANTHROPIC_API_KEY: "not-needed"
+          GITHUB_TOKEN: "not-needed"
+        run: |
+          cd pr-reviewer
+          python scripts/update_registry.py \
+            --registry-path registry \
+            --flutter-repo-path ${{ github.workspace }} \
+            --changed-files "${{ steps.files.outputs.changed }}" \
+            --jira-key "${{ steps.jira.outputs.key }}" \
+            --commit-sha "${{ github.sha }}"
+
+      - name: Commit and push registry changes
+        run: |
+          cd pr-reviewer
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add registry/
+          if git diff --cached --quiet; then
+            echo "No registry changes to commit"
+          else
+            git commit -m "chore: update registry from $(echo ${{ github.sha }} | cut -c1-8)
+
+            Source: ${{ steps.jira.outputs.key || 'no-ticket' }}
+            Flutter commit: ${{ github.sha }}"
+            git push
+          fi

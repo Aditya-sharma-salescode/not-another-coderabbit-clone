@@ -1,0 +1,107 @@
+{
+  "feature_name": "offer",
+  "source_paths": [
+    "lib/features/offer/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/offer/model/",
+    "services": "lib/features/offer/services/",
+    "widgets": "lib/features/offer/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.680311+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/offer/services/core_services/offers_services.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 7,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "chirag.kumar@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/offer/services/promo_transformer.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 5,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "chirag.kumar@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/offer/model/scheme_basic_info_ui.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "chirag.kumar@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/offer/utils/schemes_utils.dart": {
+      "last_modified": "2026-02-05",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "chirag.kumar@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/offer/services/outlet_groups_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "chirag.kumar@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/offer/services/scheme_description_services/scheme_description_service.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "chirag.kumar@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,139 @@
+{
+  "feature_name": "sfa_asset_tracking",
+  "source_paths": [
+    "lib/sfa/features/asset_tracking/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/asset_tracking/models/",
+    "screens": "lib/sfa/features/asset_tracking/screens/",
+    "services": "lib/sfa/features/asset_tracking/services/",
+    "provider": "lib/sfa/features/asset_tracking/provider/",
+    "widgets": "lib/sfa/features/asset_tracking/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.690555+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/asset_tracking/screens/asset_tracking_screen.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/widgets/asset_tracking_new_design.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 12,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/provider/asset_tracking_provider.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 6,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/provider/cold_equipment_survey_provider.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/widgets/condition_dropdown.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/widgets/cold_equipment_survey.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/screens/missing_asset_tracking_screen.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/asset_tracking/services/asset_tracking_service.dart": {
+      "last_modified": "2026-02-11",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "kshitiz.singhal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

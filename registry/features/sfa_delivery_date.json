@@ -1,0 +1,147 @@
+{
+  "feature_name": "sfa_delivery_date",
+  "source_paths": [
+    "lib/sfa/features/delivery_date/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/delivery_date/models/",
+    "screens": "lib/sfa/features/delivery_date/screens/",
+    "widgets": "lib/sfa/features/delivery_date/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.692545+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/delivery_date/repository/delivery_date_repository_app.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/service/delivery_date_services.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 8,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/repository/delivery_date_repository.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/repository/delivery_date_repository_web.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/widgets/delivery_date_home.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 9,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/widgets/cut_off_time_bottom_snackbar.dart": {
+      "last_modified": "2026-01-22",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/screens/data_loading_screen.dart": {
+      "last_modified": "2025-12-31",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/models/delivery_date_ui.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/widgets/delivery_date_list.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/widgets/loading_widget.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/widgets/support_widget.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/widgets/welcome_widget.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/sfa/features/delivery_date/models/generic_mov_ui.dart": {
+      "last_modified": "2025-12-23",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

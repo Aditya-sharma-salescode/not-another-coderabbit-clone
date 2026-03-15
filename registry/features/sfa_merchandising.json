@@ -1,0 +1,98 @@
+{
+  "feature_name": "sfa_merchandising",
+  "source_paths": [
+    "lib/sfa/features/merchandising/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/merchandising/screens/",
+    "services": "lib/sfa/features/merchandising/services/",
+    "provider": "lib/sfa/features/merchandising/provider/",
+    "widgets": "lib/sfa/features/merchandising/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.695143+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/merchandising/provider/merchandising_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/merchandising/services/merchandising_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/merchandising/widgets/merchandising_body.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/merchandising/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/merchandising/screens/merchandising_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,59 @@
+{
+  "feature_name": "sfa_order_in_other_channels",
+  "source_paths": [
+    "lib/sfa/features/order_in_other_channels/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/order_in_other_channels/model/",
+    "screens": "lib/sfa/features/order_in_other_channels/screens/",
+    "services": "lib/sfa/features/order_in_other_channels/services/",
+    "provider": "lib/sfa/features/order_in_other_channels/provider/",
+    "widgets": "lib/sfa/features/order_in_other_channels/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.696526+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/order_in_other_channels/provider/others_channel_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/order_in_other_channels/services/others_channels_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/order_in_other_channels/widgets/other_channels_item.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/order_in_other_channels/model/other_channels_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/order_in_other_channels/screens/other_channel.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

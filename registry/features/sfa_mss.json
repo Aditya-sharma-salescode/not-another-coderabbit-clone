@@ -1,0 +1,36 @@
+{
+  "feature_name": "sfa_mss",
+  "source_paths": [
+    "lib/sfa/features/mss/"
+  ],
+  "sub_paths": {
+    "provider": "lib/sfa/features/mss/provider/",
+    "widgets": "lib/sfa/features/mss/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.695329+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/mss/provider/mss_provider.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 14,
+      "authors": [
+        "tanisha@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com"
+      ]
+    },
+    "lib/sfa/features/mss/widgets/mss_products_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "tanisha@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

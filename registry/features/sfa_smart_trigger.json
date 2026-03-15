@@ -1,0 +1,46 @@
+{
+  "feature_name": "sfa_smart_trigger",
+  "source_paths": [
+    "lib/sfa/features/smart_trigger/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.701431+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/smart_trigger/outlet_page/smart_trigger_outlet_page.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 13,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "tanisha@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/smart_trigger/outlet_page/smart_trigger_outlet_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "tanisha@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/smart_trigger/salesrep/smart_trigger_salesrep_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "ridsuteri@gmail.com",
+        "tanisha@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

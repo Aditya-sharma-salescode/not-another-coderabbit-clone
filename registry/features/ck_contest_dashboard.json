@@ -1,0 +1,148 @@
+{
+  "feature_name": "ck_contest_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/contest_dashboard/"
+  ],
+  "sub_paths": {
+    "models": "lib/channelKart/features/contest_dashboard/models/",
+    "services": "lib/channelKart/features/contest_dashboard/services/",
+    "providers": "lib/channelKart/features/contest_dashboard/providers/",
+    "widgets": "lib/channelKart/features/contest_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.703572+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/contest_dashboard/providers/contest_dashboard_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/repository/contest_dashboard_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/services/contest_dashboard_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/widgets/contest_dashboard_body.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/contest_dashboard_constants.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/models/contest_dashboard_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/widgets/contest_card_data.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 10,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/widgets/contest_dashboard.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/widgets/contest_dashboard_header.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/models/contest_dashboard_metadata_ui.dart": {
+      "last_modified": "2024-09-17",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/repository/contest_dashboard_repository.dart": {
+      "last_modified": "2024-07-23",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/repository/contest_dashboard_repository_web.dart": {
+      "last_modified": "2024-07-23",
+      "commit_count": 1,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    },
+    "lib/channelKart/features/contest_dashboard/models/contest_dashboard_card_model.dart": {
+      "last_modified": "2024-07-18",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

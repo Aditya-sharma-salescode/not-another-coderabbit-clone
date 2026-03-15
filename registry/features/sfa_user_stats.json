@@ -1,0 +1,48 @@
+{
+  "feature_name": "sfa_user_stats",
+  "source_paths": [
+    "lib/sfa/features/user_stats/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/user_stats/models/",
+    "services": "lib/sfa/features/user_stats/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.702284+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/user_stats/services/user_stats_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 18,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/user_stats/models/user_stats_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "rahul_gambhir@applicatetechnology.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

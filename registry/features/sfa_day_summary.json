@@ -1,0 +1,185 @@
+{
+  "feature_name": "sfa_day_summary",
+  "source_paths": [
+    "lib/sfa/features/day_summary/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/day_summary/models/",
+    "provider": "lib/sfa/features/day_summary/provider/",
+    "widgets": "lib/sfa/features/day_summary/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.692314+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/day_summary/service/day_summary_service.dart": {
+      "last_modified": "2026-03-05",
+      "commit_count": 11,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/buisness_impact_row.dart": {
+      "last_modified": "2026-02-17",
+      "commit_count": 5,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/provider/day_summary_provider.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/day_summary.dart": {
+      "last_modified": "2026-02-16",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/models/data_point.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/buisness_analytics.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/buisness_overview.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/buisness_overview_product_type_row.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/day_summary_vertical_list.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/screen/day_summary_screen.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/account_profile.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/day_summary/widgets/month_summary_widget.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "119804372+Adity20@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "riya.sharma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

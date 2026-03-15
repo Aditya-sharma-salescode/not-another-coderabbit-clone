@@ -1,0 +1,79 @@
+{
+  "feature_name": "sfa_pjp",
+  "source_paths": [
+    "lib/sfa/features/pjp/"
+  ],
+  "sub_paths": {
+    "services": "lib/sfa/features/pjp/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.698789+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/pjp/services/pjp_services.dart": {
+      "last_modified": "2026-03-05",
+      "commit_count": 10,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/pjp/repository/pjp_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/pjp/repository/pjp_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/pjp/repository/pjp_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "paras.rawat@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

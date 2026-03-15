@@ -1,0 +1,79 @@
+{
+  "feature_name": "sfa_survey",
+  "source_paths": [
+    "lib/sfa/features/survey/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/survey/models/",
+    "screens": "lib/sfa/features/survey/screens/",
+    "services": "lib/sfa/features/survey/services/",
+    "provider": "lib/sfa/features/survey/provider/",
+    "widgets": "lib/sfa/features/survey/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.702096+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/survey/provider/survey_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 16,
+      "authors": [
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/survey/repositories/survey_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/survey/screens/survey_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 13,
+      "authors": [
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/survey/services/survey_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/survey/widgets/survey_question_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/survey/repositories/survey_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

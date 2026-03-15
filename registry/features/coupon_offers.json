@@ -1,0 +1,73 @@
+{
+  "feature_name": "coupon_offers",
+  "source_paths": [
+    "lib/features/coupon_offers/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/coupon_offers/screens/",
+    "services": "lib/features/coupon_offers/services/",
+    "widgets": "lib/features/coupon_offers/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.673164+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/coupon_offers/widgets/modified_coupon_card.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/coupon_offers/widgets/coupon_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 11,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/coupon_offers/services/coupon_service.dart": {
+      "last_modified": "2026-03-05",
+      "commit_count": 4,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/coupon_offers/screens/coupon_offers_screen.dart": {
+      "last_modified": "2026-01-15",
+      "commit_count": 4,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,163 @@
+{
+  "feature_name": "sfa_promotion",
+  "source_paths": [
+    "lib/sfa/features/promotion/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/promotion/models/",
+    "screens": "lib/sfa/features/promotion/screens/",
+    "services": "lib/sfa/features/promotion/services/",
+    "provider": "lib/sfa/features/promotion/provider/",
+    "widgets": "lib/sfa/features/promotion/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.699575+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/promotion/widgets/promotions_product_card.dart": {
+      "last_modified": "2026-01-19",
+      "commit_count": 11,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/screens/promotion_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/services/promotion_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/widgets/promotion_cart.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/models/promotion_model_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/screens/promotion_product_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 8,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/screens/promotion_tab_view.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/promotion/widgets/promotion_heading_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "ridsuteri@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

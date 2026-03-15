@@ -1,0 +1,56 @@
+{
+  "feature_name": "compare_price",
+  "source_paths": [
+    "lib/features/compare_price/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/compare_price/model/",
+    "provider": "lib/features/compare_price/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.672325+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/compare_price/analytics.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/compare_price/compare_price_bottom_sheet.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/compare_price/compare_prices.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/compare_price/provider/compare_price_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/compare_price/model/SupplierProductInfo.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

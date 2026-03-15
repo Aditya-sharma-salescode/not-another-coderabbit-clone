@@ -1,0 +1,72 @@
+{
+  "feature_name": "user",
+  "source_paths": [
+    "lib/features/user/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/user/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.689359+00:00",
+  "lob_context": {
+    "services": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "user_api.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/user/services/user_services_app.dart": {
+      "last_modified": "2025-12-26",
+      "commit_count": 13,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/features/user/services/user_services_web.dart": {
+      "last_modified": "2025-12-26",
+      "commit_count": 9,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "premjeet.singh@salescode.ai"
+      ]
+    },
+    "lib/features/user/services/user_services.dart": {
+      "last_modified": "2025-12-08",
+      "commit_count": 6,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "aditya.mishra@salescode.ai",
+        "premjeet.singh@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

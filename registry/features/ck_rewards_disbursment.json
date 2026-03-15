@@ -1,0 +1,134 @@
+{
+  "feature_name": "ck_rewards_disbursment",
+  "source_paths": [
+    "lib/channelKart/features/rewards_disbursment/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/rewards_disbursment/screens/",
+    "services": "lib/channelKart/features/rewards_disbursment/services/",
+    "widgets": "lib/channelKart/features/rewards_disbursment/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.706905+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/rewards_disbursment/repository/disbursment_respository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/repository/disbursment_respository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/screens/rewards_ disbursement_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/services/disbursment_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/widgets/disbursement_details_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/widgets/reward_points_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/screens/rewards_web_view_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/analytics.dart": {
+      "last_modified": "2024-09-10",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/rewards_disbursment/repository/disbursment_respository.dart": {
+      "last_modified": "2024-04-08",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "bhavik123667@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

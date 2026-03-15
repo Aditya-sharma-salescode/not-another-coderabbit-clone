@@ -1,0 +1,161 @@
+{
+  "feature_name": "recommendation",
+  "source_paths": [
+    "lib/features/recommendation/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/recommendation/screens/",
+    "services": "lib/features/recommendation/services/",
+    "widgets": "lib/features/recommendation/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.683912+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/recommendation/widgets/recommendation_bottom_sheet.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 6,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/widgets/recomendation_card.dart": {
+      "last_modified": "2025-12-16",
+      "commit_count": 3,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/services/recommendation_basket_services.dart": {
+      "last_modified": "2025-12-16",
+      "commit_count": 9,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/widgets/recommendation_tab.dart": {
+      "last_modified": "2025-11-28",
+      "commit_count": 6,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/screens/screens/Recommendation_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/widgets/recomendation_basket_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/widgets/recommendation_basket_header.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/widgets/recommendation_basket.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/recommendation/widgets/recommended_product_filter.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "sumit_kumar@applicatetechnology.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "swati.maurya@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "suchintan.das@salescode.ai",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

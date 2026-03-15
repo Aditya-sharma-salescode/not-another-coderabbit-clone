@@ -1,0 +1,241 @@
+{
+  "feature_name": "delivery_app",
+  "source_paths": [
+    "lib/features/delivery_app/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/delivery_app/models/",
+    "provider": "lib/features/delivery_app/provider/",
+    "widgets": "lib/features/delivery_app/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.673774+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/delivery_app/screen/delivery_app_checkout_summary_screen2.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/invoice_order_summary_data.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 4,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/screen/delivery_outlets_list_screen.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/delivery_summary_card.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/invoice_cart_screen_bottombar.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/todays_route_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/provider/loadout_provider.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 4,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/screen/delivery_loadout_quantity_screen.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/screen/delivery_loadout_variance_screen.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/screen/delivery_routes_overview_screen.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/delivery_outlet_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/start_route_confirmation_dialog.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/provider/delivery_filter_provider.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 3,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/screen/delivery_app_cart_screen.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 3,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/delivery_tab_filters.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 3,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/delivery_app/widgets/simple_cart_product_card.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 3,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

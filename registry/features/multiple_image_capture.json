@@ -1,0 +1,37 @@
+{
+  "feature_name": "multiple_image_capture",
+  "source_paths": [
+    "lib/features/multiple_image_capture/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.679352+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/multiple_image_capture/camera_file.dart": {
+      "last_modified": "2026-01-19",
+      "commit_count": 20,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "prashant.shukla@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "shubham1132.be20@chitkarauniversity.edu.in",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/multiple_image_capture/multiple_image_capture.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "prashant.shukla@salescode.ai",
+        "aayush.sharma@salescode.ai",
+        "shubham1132.be20@chitkarauniversity.edu.in",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

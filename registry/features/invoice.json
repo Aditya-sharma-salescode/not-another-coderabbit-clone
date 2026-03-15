@@ -1,0 +1,194 @@
+{
+  "feature_name": "invoice",
+  "source_paths": [
+    "lib/features/invoice/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/invoice/model/",
+    "screens": "lib/features/invoice/screens/",
+    "provider": "lib/features/invoice/provider/",
+    "widgets": "lib/features/invoice/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.676973+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "invoice_helper.dart",
+        "invoiceGenric.dart",
+        "invoice.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/invoice/repository/invoice_repository.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/repository/invoice_repository_app.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/repository/invoice_repository_web.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/service/invoice_service.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 8,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/screens/invoice_screen.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/widgets/invoice_list.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/widgets/invoice_tabular_card.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/provider/invoice_provider.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/widgets/invoice_card.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/widgets/invoice_search_bar.dart": {
+      "last_modified": "2026-02-09",
+      "commit_count": 2,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/invoice/widgets/invoice_datepicker.dart": {
+      "last_modified": "2026-01-29",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "abhay.dixit@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

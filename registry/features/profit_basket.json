@@ -1,0 +1,168 @@
+{
+  "feature_name": "profit_basket",
+  "source_paths": [
+    "lib/features/profit_basket/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/profit_basket/model/",
+    "screens": "lib/features/profit_basket/screens/",
+    "provider": "lib/features/profit_basket/provider/",
+    "widgets": "lib/features/profit_basket/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.683487+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/profit_basket/provider/profit_basket_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/repository/profit_basket_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/service/profit_basket_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/widgets/period_tabs.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/model/elements_value_ui_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/model/profit_basket_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/model/profit_basket_ui_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/model/profit_value_ui_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/repository/profit_basket_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/screens/profit_basket_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 8,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/widgets/profit_basket_horizontal_list.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/widgets/profit_basket_summary_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/widgets/profit_elements_table.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/repository/profit_basket_repository_web.dart": {
+      "last_modified": "2025-02-12",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/features/profit_basket/model/profit_basket_model_web.dart": {
+      "last_modified": "",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

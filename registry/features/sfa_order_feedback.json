@@ -1,0 +1,65 @@
+{
+  "feature_name": "sfa_order_feedback",
+  "source_paths": [
+    "lib/sfa/features/order_feedback/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/order_feedback/screens/",
+    "services": "lib/sfa/features/order_feedback/services/",
+    "widgets": "lib/sfa/features/order_feedback/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.696355+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/order_feedback/screens/order_feedback_subscreen.dart": {
+      "last_modified": "2026-01-28",
+      "commit_count": 6,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/order_feedback/widgets/order_feedback_card.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 12,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/order_feedback/services/order_feedback_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "sumit_kumar@applicatetechnology.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

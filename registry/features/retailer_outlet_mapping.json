@@ -1,0 +1,125 @@
+{
+  "feature_name": "retailer_outlet_mapping",
+  "source_paths": [
+    "lib/features/retailer_outlet_mapping/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/retailer_outlet_mapping/model/",
+    "screens": "lib/features/retailer_outlet_mapping/screens/",
+    "provider": "lib/features/retailer_outlet_mapping/provider/",
+    "widgets": "lib/features/retailer_outlet_mapping/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.684820+00:00",
+  "lob_context": {
+    "services": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "outlet_mapping.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/retailer_outlet_mapping/provider/retailer_outletmapping_provider.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_mapping/widgets/new_retailer_outletmapping_form.dart": {
+      "last_modified": "2026-03-10",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_mapping/service/retailer_outletmapping_service.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 4,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_mapping/widgets/retailer_outlet_mapping_seller.dart": {
+      "last_modified": "2026-02-17",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_mapping/helper/retailer_outletmapping_helper.dart": {
+      "last_modified": "2026-01-23",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_mapping/screens/retailer_outletmapping_page.dart": {
+      "last_modified": "2026-01-09",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/retailer_outlet_mapping/widgets/retailer_outletmapping_dropdown.dart": {
+      "last_modified": "2026-01-06",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,112 @@
+{
+  "feature_name": "supervisor_order",
+  "source_paths": [
+    "lib/features/supervisor_order/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/supervisor_order/models/",
+    "provider": "lib/features/supervisor_order/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.687840+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/supervisor_order/provider/supervisor_order_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/screen/supervisor_order.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 14,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/service/supervisor_order_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 5,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/models/dse_order_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/repository/dse_order_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/repository/dse_order_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/repository/dse_order_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/supervisor_order/models/dse_order_ui.dart": {
+      "last_modified": "2025-02-13",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

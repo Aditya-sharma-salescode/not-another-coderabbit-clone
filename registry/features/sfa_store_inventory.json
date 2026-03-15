@@ -1,0 +1,258 @@
+{
+  "feature_name": "sfa_store_inventory",
+  "source_paths": [
+    "lib/sfa/features/store_inventory/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/store_inventory/models/",
+    "screens": "lib/sfa/features/store_inventory/screens/",
+    "provider": "lib/sfa/features/store_inventory/provider/",
+    "widgets": "lib/sfa/features/store_inventory/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.701797+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/store_inventory/widgets/store_inventory_cart_page_bottom_bar.dart": {
+      "last_modified": "2026-03-11",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/service/store_inventory_service.dart": {
+      "last_modified": "2026-02-25",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/provider/store_inventory_provider.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/repository/store_inventory_repo.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/repository/store_inventory_repo_app.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/repository/store_inventory_repo_web.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/stock_inventory_data.dart": {
+      "last_modified": "2026-02-18",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/store_inventory_product_card_btn.dart": {
+      "last_modified": "2026-02-17",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/screens/store_inventory.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/screens/store_inventory_cart_page.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/store_inventory_edit_button.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/store_inventory_product_card.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/add_inventory_card.dart": {
+      "last_modified": "2026-02-07",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/store_inventory_add_btn.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/store_inventory/widgets/store_inventory_cart_empty.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "kunal@salescode.ai",
+        "prashant.shukla@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "komal@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

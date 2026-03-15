@@ -1,0 +1,109 @@
+{
+  "feature_name": "achievement_dashboard",
+  "source_paths": [
+    "lib/features/achievement_dashboard/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/achievement_dashboard/models/",
+    "screens": "lib/features/achievement_dashboard/screens/",
+    "services": "lib/features/achievement_dashboard/services/",
+    "providers": "lib/features/achievement_dashboard/providers/",
+    "widgets": "lib/features/achievement_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.669246+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/achievement_dashboard/providers/achievement_dashboard_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/screens/achievement_summary_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/services/achievement_dashboard_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/widgets/achievement_summary_dashboard.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/models/period_data_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/models/target_ach_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/utils/achievement_dashboard_utils.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/widgets/circular_achievement_indicator_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/achievement_dashboard/widgets/period_ach_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

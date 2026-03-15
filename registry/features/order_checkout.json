@@ -1,0 +1,184 @@
+{
+  "feature_name": "order_checkout",
+  "source_paths": [
+    "lib/features/order_checkout/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/order_checkout/model/",
+    "screens": "lib/features/order_checkout/screens/",
+    "services": "lib/features/order_checkout/services/",
+    "provider": "lib/features/order_checkout/provider/",
+    "widgets": "lib/features/order_checkout/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.681429+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/order_checkout/screens/order_invoice_summary.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 4,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/widgets/order_details_widget.dart": {
+      "last_modified": "2026-03-13",
+      "commit_count": 3,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/provider/invoice_summary_provider.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/services/order_invoice_service.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/widgets/upload_proof_widget.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/model/order_invoice_model.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/widgets/invoice_card_widget.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/widgets/order_submit_button.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/widgets/order_submit_button_v2.dart": {
+      "last_modified": "2026-03-12",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/screens/order_checkout.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 2,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/order_checkout/services/order_checkout_services.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "aditya.sharma@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "119804372+Adity20@users.noreply.github.com",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

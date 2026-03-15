@@ -1,0 +1,303 @@
+{
+  "feature_name": "ck_bank_enrollment",
+  "source_paths": [
+    "lib/channelKart/features/bank_enrollment/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/bank_enrollment/screens/",
+    "services": "lib/channelKart/features/bank_enrollment/services/",
+    "widgets": "lib/channelKart/features/bank_enrollment/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.702890+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/bank_enrollment/screens/bank_enrollment_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/services/bank_enrollment_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/axis_enrollment.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/check_balance.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/dropdown_select.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/finagg_enrollment.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/media_specific_banner_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/onboarding_status_stepper.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/sbi_enrollment.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/text_field.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/vintage_data.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/screens/check_balance_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/services/bank_enrollment_models.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/apply_button.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/axis_id_controller_mapping.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/bank_enrollment_consent.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/bank_forms.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/banner_carousel.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/form_section_header.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/sbi_id_controller_mapping.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/bank_enrollment/widgets/bank_enrollment_banners.dart": {
+      "last_modified": "2024-04-02",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "swati.maurya@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

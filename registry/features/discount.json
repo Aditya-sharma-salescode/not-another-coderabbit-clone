@@ -1,0 +1,324 @@
+{
+  "feature_name": "discount",
+  "source_paths": [
+    "lib/features/discount/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/discount/model/",
+    "services": "lib/features/discount/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.674397+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/discount/services/discount_helper.dart": {
+      "last_modified": "2026-03-05",
+      "commit_count": 11,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/services/discount_calculator.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 4,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/discount_percentage_group_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/utils/discount_rules_utils.dart": {
+      "last_modified": "2025-12-09",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_engine/discount_engine.dart": {
+      "last_modified": "2025-12-08",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/discount_value_group_rule.dart": {
+      "last_modified": "2025-12-08",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/services/discount_service.dart": {
+      "last_modified": "2025-12-08",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/model/discount_object_ui.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/services/discount_manager.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 4,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/discount_percentage_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/discount_value_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/free_item_group_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/free_item_reverse_value_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/free_item_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/free_item_value_rule.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/slab_discount_percentage_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/discount_rules/slab_discount_value_rule.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/repository/discount_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/repository/discount_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/services/must_buy_condition_generator.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/services/must_buy_condition_generator_optimized.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/discount/services/optimal_discount_engine.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

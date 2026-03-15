@@ -1,0 +1,26 @@
+{
+  "feature_name": "sfa_remote_order",
+  "source_paths": [
+    "lib/sfa/features/remote_order/"
+  ],
+  "sub_paths": {
+    "widgets": "lib/sfa/features/remote_order/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.700149+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/remote_order/widgets/remoteorder_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 20,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

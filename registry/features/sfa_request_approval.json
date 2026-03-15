@@ -1,0 +1,125 @@
+{
+  "feature_name": "sfa_request_approval",
+  "source_paths": [
+    "lib/sfa/features/request_approval/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/request_approval/models/",
+    "services": "lib/sfa/features/request_approval/services/",
+    "widgets": "lib/sfa/features/request_approval/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.700308+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/request_approval/services/request_approval_service.dart": {
+      "last_modified": "2025-12-18",
+      "commit_count": 7,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/models/request_model.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/utils/request_approval_utils.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/widgets/outlet_request_approval_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/widgets/outlet_request_approval_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/widgets/request_approval_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/widgets/request_approval_widget.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/screen/outlet_wise_request_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/request_approval/screen/request_approval_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "aryan.agarwal@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "aayushsharma0909@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "saiyam.verma@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

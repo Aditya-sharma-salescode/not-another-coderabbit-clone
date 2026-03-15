@@ -1,0 +1,61 @@
+{
+  "feature_name": "sfa_outlet_insight",
+  "source_paths": [
+    "lib/sfa/features/outlet_insight/"
+  ],
+  "sub_paths": {
+    "model": "lib/sfa/features/outlet_insight/model/",
+    "provider": "lib/sfa/features/outlet_insight/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.697569+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/outlet_insight/provider/outlet_insight_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_insight/widget/outlet_insight.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_insight/model/outlet_insight_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_insight/model/outlet_insight_data_points.dart": {
+      "last_modified": "2025-03-21",
+      "commit_count": 1,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_insight/model/outlet_insight_value.dart": {
+      "last_modified": "2025-03-21",
+      "commit_count": 1,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

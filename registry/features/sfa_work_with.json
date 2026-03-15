@@ -1,0 +1,189 @@
+{
+  "feature_name": "sfa_work_with",
+  "source_paths": [
+    "lib/sfa/features/work_with/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/work_with/models/",
+    "screens": "lib/sfa/features/work_with/screens/",
+    "services": "lib/sfa/features/work_with/services/",
+    "provider": "lib/sfa/features/work_with/provider/",
+    "widgets": "lib/sfa/features/work_with/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.702466+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/work_with/screens/feedback_screen_2.dart": {
+      "last_modified": "2026-01-22",
+      "commit_count": 8,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/multi_select_dropdown.dart": {
+      "last_modified": "2026-01-22",
+      "commit_count": 3,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/provider/work_with_provider.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 8,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/screens/outlet_list_screen.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 3,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/screens/work_with_screen.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/bottom_button.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/form_section.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/radio_group.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/search_bar.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/star_rating_row.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 2,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/title_card.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 3,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/unit_field_section.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 3,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/user_info_card.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/services/work_with_service.dart": {
+      "last_modified": "2026-01-07",
+      "commit_count": 3,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/models/work_with_model.dart": {
+      "last_modified": "2026-01-07",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/widgets/outlet_work_with_form.dart": {
+      "last_modified": "2026-01-07",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/work_with/analytics.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

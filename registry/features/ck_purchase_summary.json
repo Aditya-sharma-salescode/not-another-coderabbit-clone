@@ -1,0 +1,152 @@
+{
+  "feature_name": "ck_purchase_summary",
+  "source_paths": [
+    "lib/channelKart/features/purchase_summary/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/purchase_summary/screens/",
+    "services": "lib/channelKart/features/purchase_summary/services/",
+    "widgets": "lib/channelKart/features/purchase_summary/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.706532+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/purchase_summary/services/purchase_summary_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 12,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/repository/puchase_summary_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/widgets/purchase_summary_barchart.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/widgets/purchase_summary_linechart.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/widgets/purchase_summary_tiles.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/repository/puchase_summary_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/screens/purchase_summary_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/widgets/purchase_summary_chart.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/purchase_summary/repository/puchase_summary_repository.dart": {
+      "last_modified": "2024-12-12",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "manpreet.singh@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

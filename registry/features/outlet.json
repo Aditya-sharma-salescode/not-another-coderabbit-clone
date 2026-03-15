@@ -1,0 +1,113 @@
+{
+  "feature_name": "outlet",
+  "source_paths": [
+    "lib/features/outlet/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/outlet/model/",
+    "services": "lib/features/outlet/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.682319+00:00",
+  "lob_context": {
+    "ckcoe_gpt": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "pjpOutletPage.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    },
+    "services": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "outlet_mapping.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/outlet/repository/outlet_repository_app.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/outlet/repository/outlet_repository_web.dart": {
+      "last_modified": "2026-03-06",
+      "commit_count": 6,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/outlet/services/outlet_services.dart": {
+      "last_modified": "2026-02-24",
+      "commit_count": 8,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/outlet/model/outlet_ui.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    },
+    "lib/features/outlet/repository/outlet_repository.dart": {
+      "last_modified": "2026-01-16",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai",
+        "bhadriroopin748@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

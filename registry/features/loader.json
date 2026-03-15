@@ -1,0 +1,56 @@
+{
+  "feature_name": "loader",
+  "source_paths": [
+    "lib/features/loader/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/loader/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.677444+00:00",
+  "lob_context": {
+    "services": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "order_config_loader.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/loader/loading_screen.dart": {
+      "last_modified": "2026-02-02",
+      "commit_count": 14,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "bhavik123667@gmail.com"
+      ]
+    },
+    "lib/features/loader/services/loading_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "bhavik123667@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

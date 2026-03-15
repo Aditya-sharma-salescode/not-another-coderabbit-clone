@@ -1,0 +1,79 @@
+{
+  "feature_name": "universal_date_picker",
+  "source_paths": [
+    "lib/features/universal_date_picker/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.689012+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/universal_date_picker/promo_history_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 11,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "singhbrahmbind@gmail.com",
+        "bhadriroopin748@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/universal_date_picker/promo_history_date_picker.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "singhbrahmbind@gmail.com",
+        "bhadriroopin748@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/universal_date_picker/promo_history_date_selector.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 9,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "singhbrahmbind@gmail.com",
+        "bhadriroopin748@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/universal_date_picker/universal_date_picker_service.dart": {
+      "last_modified": "",
+      "commit_count": 3,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "singhbrahmbind@gmail.com",
+        "bhadriroopin748@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/universal_date_picker/universal_date_selector_service.dart": {
+      "last_modified": "",
+      "commit_count": 1,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "singhbrahmbind@gmail.com",
+        "bhadriroopin748@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/universal_date_picker/universal_date_selector.dart": {
+      "last_modified": "",
+      "commit_count": 2,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "singhbrahmbind@gmail.com",
+        "bhadriroopin748@gmail.com",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

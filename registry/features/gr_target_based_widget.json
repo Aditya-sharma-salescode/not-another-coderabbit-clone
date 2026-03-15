@@ -1,0 +1,220 @@
+{
+  "feature_name": "gr_target_based_widget",
+  "source_paths": [
+    "lib/features/gr_target_based_widget/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/gr_target_based_widget/model/",
+    "provider": "lib/features/gr_target_based_widget/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.676069+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/gr_target_based_widget/model/gr_dashboard_ui_model.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/screen/gr_dashboard_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/gr_target_dashboard.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/inside_screen_widget/coupen_summary.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/inside_screen_widget/month_wise_coupen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/inside_screen_widget/scrollable_coupen_table.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/progress_bar/target_icon_text.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/target_slider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/model/gr_provider_model.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/provider/gr_dashboard_provider.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/repository/gr_dashboard_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/repository/gr_dashboard_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/repository/gr_dashboard_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/service/gr_dashboard_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/coupens_achieved.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/know_more_btn.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/gr_target_based_widget/widget/progress_bar/progress_bar_base.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "128965295+khushi-155@users.noreply.github.com",
+        "gaurav.tomar@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "75002721+nothing331@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

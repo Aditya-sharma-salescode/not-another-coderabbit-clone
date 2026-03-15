@@ -1,0 +1,106 @@
+{
+  "feature_name": "banner",
+  "source_paths": [
+    "lib/features/banner/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/banner/screens/",
+    "services": "lib/features/banner/services/",
+    "widgets": "lib/features/banner/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.670626+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "Banner.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/banner/services/banner_service.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/banner/services/banner_service_app.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 1,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/banner/widgets/communication_bannerV2.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 3,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/banner/widgets/one_click_banner.dart": {
+      "last_modified": "2026-01-27",
+      "commit_count": 5,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/banner/widgets/outlet_visit_banner.dart": {
+      "last_modified": "2026-02-05",
+      "commit_count": 4,
+      "authors": [
+        "stuti.jain@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai",
+        "saiyam.verma@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

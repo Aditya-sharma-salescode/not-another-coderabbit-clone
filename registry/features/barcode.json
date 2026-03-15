@@ -1,0 +1,33 @@
+{
+  "feature_name": "barcode",
+  "source_paths": [
+    "lib/features/barcode/"
+  ],
+  "sub_paths": {},
+  "last_updated": "2026-03-15T10:12:37.671000+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/barcode/barcode_scan.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 13,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "nishant.jain@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/barcode/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "harsh@applicatetechnology.com",
+        "nishant.jain@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,234 @@
+{
+  "feature_name": "search",
+  "source_paths": [
+    "lib/features/search/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/search/screens/",
+    "services": "lib/features/search/services/",
+    "widgets": "lib/features/search/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.686258+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "search_function.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/search/screens/search_screen.dart": {
+      "last_modified": "2026-02-20",
+      "commit_count": 10,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/services/search_screen_services_web.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 5,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/shop_by_brand.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/shop_by_category.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/services/search_screen_services.dart": {
+      "last_modified": "2026-01-28",
+      "commit_count": 5,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/services/search_screen_services_app.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 6,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/basket_product_search.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/horizontal_sku_basket.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/sfa_product_basket.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/basket_header.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/mic.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/search/widgets/search_screen_layout.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "shrey.parikh@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,34 @@
+{
+  "feature_name": "displayCapture",
+  "source_paths": [
+    "lib/features/displayCapture/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/displayCapture/screens/",
+    "provider": "lib/features/displayCapture/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.674709+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/displayCapture/provider/display_capture_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/features/displayCapture/screens/display_capture_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 12,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

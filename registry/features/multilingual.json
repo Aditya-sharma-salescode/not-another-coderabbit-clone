@@ -1,0 +1,161 @@
+{
+  "feature_name": "multilingual",
+  "source_paths": [
+    "lib/features/multilingual/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/multilingual/screens/",
+    "services": "lib/features/multilingual/services/",
+    "widgets": "lib/features/multilingual/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.679095+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/multilingual/services/multilingual_service.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 14,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/app_localizations.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/hie_intl.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/repository/multilingual_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/repository/multilingual_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/screens/language_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/widgets/language_card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    },
+    "lib/features/multilingual/repository/multilingual_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "pushkar.ojha@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "vishnu.pv@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,34 @@
+{
+  "feature_name": "user_details_form",
+  "source_paths": [
+    "lib/features/user_details_form/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/user_details_form/screens/",
+    "widgets": "lib/features/user_details_form/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.689929+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/user_details_form/screens/user_details_form.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 10,
+      "authors": [
+        "sharma.aditya9164@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/user_details_form/widgets/custom_textfield.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "sharma.aditya9164@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

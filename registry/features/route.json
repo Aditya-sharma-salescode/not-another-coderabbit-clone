@@ -1,0 +1,51 @@
+{
+  "feature_name": "route",
+  "source_paths": [
+    "lib/features/route/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/route/models/",
+    "services": "lib/features/route/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.685426+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/route/repository/route_repository.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 3,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/features/route/repository/route_repository_app.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 4,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/features/route/repository/route_repository_web.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 4,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/features/route/services/route_services.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 3,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/features/route/models/route_ui.dart": {
+      "last_modified": "2025-12-30",
+      "commit_count": 2,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

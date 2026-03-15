@@ -1,0 +1,43 @@
+{
+  "feature_name": "data_sync",
+  "source_paths": [
+    "lib/features/data_sync/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/data_sync/screens/"
+  },
+  "last_updated": "2026-03-15T10:12:37.673508+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/data_sync/analytics.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "suchintan.das@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    },
+    "lib/features/data_sync/screens/data_sync_screen.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 19,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "rishabh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "suchintan.das@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aditya.mishra@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

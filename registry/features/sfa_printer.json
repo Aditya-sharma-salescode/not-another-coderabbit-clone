@@ -1,0 +1,47 @@
+{
+  "feature_name": "sfa_printer",
+  "source_paths": [
+    "lib/sfa/features/printer/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/printer/screens/",
+    "provider": "lib/sfa/features/printer/provider/",
+    "widgets": "lib/sfa/features/printer/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.699410+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/printer/provider/printer_provider.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 16,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prateekgarg2208@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aayushsharma0909@gmail.com"
+      ]
+    },
+    "lib/sfa/features/printer/widgets/printer_selection_widget.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 8,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prateekgarg2208@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aayushsharma0909@gmail.com"
+      ]
+    },
+    "lib/sfa/features/printer/screens/printer_selection_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "prateekgarg2208@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "aayushsharma0909@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

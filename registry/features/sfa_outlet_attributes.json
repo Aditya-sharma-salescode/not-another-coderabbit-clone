@@ -1,0 +1,56 @@
+{
+  "feature_name": "sfa_outlet_attributes",
+  "source_paths": [
+    "lib/sfa/features/outlet_attributes/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/outlet_attributes/models/",
+    "services": "lib/sfa/features/outlet_attributes/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.697215+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/outlet_attributes/repository/outlet_attributes_repository_app.dart": {
+      "last_modified": "2026-01-04",
+      "commit_count": 4,
+      "authors": [
+        "vishnu.pv@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_attributes/models/outlet_attributes_ui.dart": {
+      "last_modified": "2025-12-31",
+      "commit_count": 2,
+      "authors": [
+        "vishnu.pv@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_attributes/repository/outlet_attributes_repository.dart": {
+      "last_modified": "2025-12-31",
+      "commit_count": 2,
+      "authors": [
+        "vishnu.pv@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_attributes/repository/outlet_attributes_repository_web.dart": {
+      "last_modified": "2025-12-31",
+      "commit_count": 2,
+      "authors": [
+        "vishnu.pv@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/outlet_attributes/services/outlet_attributes_service.dart": {
+      "last_modified": "2025-12-31",
+      "commit_count": 2,
+      "authors": [
+        "vishnu.pv@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

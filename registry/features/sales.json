@@ -1,0 +1,64 @@
+{
+  "feature_name": "sales",
+  "source_paths": [
+    "lib/features/sales/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/sales/model/"
+  },
+  "last_updated": "2026-03-15T10:12:37.685602+00:00",
+  "lob_context": {
+    "services": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "sales_summary_api.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/sales/repository/sales_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales/repository/sales_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales/service/sales_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales/model/sales_ui.dart": {
+      "last_modified": "2025-04-15",
+      "commit_count": 1,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/sales/repository/sales_repository.dart": {
+      "last_modified": "2025-04-15",
+      "commit_count": 1,
+      "authors": [
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

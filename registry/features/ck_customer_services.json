@@ -1,0 +1,160 @@
+{
+  "feature_name": "ck_customer_services",
+  "source_paths": [
+    "lib/channelKart/features/customer_services/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/customer_services/screens/",
+    "provider": "lib/channelKart/features/customer_services/provider/",
+    "widgets": "lib/channelKart/features/customer_services/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.703781+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/customer_services/provider/customer_service_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/screens/customer_services.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/widgets/Faq_Handler.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/widgets/Grid_View_Customer_Service_Card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/widgets/card.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/repository/customerService_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/repository/customerService_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 6,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/screens/popular_questions.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 7,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/widgets/Faq_Single_Question.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/customer_services/repository/customerService_repository.dart": {
+      "last_modified": "2024-10-23",
+      "commit_count": 4,
+      "authors": [
+        "swati.maurya@salescode.ai",
+        "harsh@applicatetechnology.com",
+        "bhadriroopin748@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "105939712+saurabhkalia5@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

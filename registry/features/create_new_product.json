@@ -1,0 +1,36 @@
+{
+  "feature_name": "create_new_product",
+  "source_paths": [
+    "lib/features/create_new_product/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/create_new_product/screens/",
+    "services": "lib/features/create_new_product/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.673349+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/create_new_product/screens/create_new_product_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 9,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/features/create_new_product/services/create_product_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 6,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,79 @@
+{
+  "feature_name": "recommended_order",
+  "source_paths": [
+    "lib/features/recommended_order/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/recommended_order/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.684148+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/recommended_order/repository/recommended_order_repository_app.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "gaurav.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/recommended_order/repository/recommended_order_repository_web.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "gaurav.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/recommended_order/services/recommended_order_services.dart": {
+      "last_modified": "2026-03-02",
+      "commit_count": 14,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "gaurav.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/recommended_order/repository/recommended_order_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "karan.kumar@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "harsh@applicatetechnology.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "shrey.parikh@salescode.ai",
+        "gaurav.tomar@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

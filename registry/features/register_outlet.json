@@ -1,0 +1,37 @@
+{
+  "feature_name": "register_outlet",
+  "source_paths": [
+    "lib/features/register_outlet/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/register_outlet/screens/",
+    "widgets": "lib/features/register_outlet/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.684339+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/register_outlet/screens/register_outlet.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/register_outlet/widgets/register_outlet_card.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 2,
+      "authors": [
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/register_outlet/service/register_outlet_service.dart": {
+      "last_modified": "2025-12-24",
+      "commit_count": 1,
+      "authors": [
+        "saiyam.verma@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

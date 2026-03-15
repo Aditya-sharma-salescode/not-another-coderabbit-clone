@@ -1,0 +1,63 @@
+{
+  "feature_name": "supplier",
+  "source_paths": [
+    "lib/features/supplier/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/supplier/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.688055+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/supplier/services/supplier_services_app.dart": {
+      "last_modified": "2026-02-11",
+      "commit_count": 13,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai"
+      ]
+    },
+    "lib/features/supplier/services/supplier_services_web.dart": {
+      "last_modified": "2026-02-09",
+      "commit_count": 10,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai"
+      ]
+    },
+    "lib/features/supplier/services/supplier_services.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "swati.maurya@salescode.ai",
+        "singhbrahmbind@gmail.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "rishabh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

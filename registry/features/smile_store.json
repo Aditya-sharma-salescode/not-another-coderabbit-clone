@@ -1,0 +1,86 @@
+{
+  "feature_name": "smile_store",
+  "source_paths": [
+    "lib/features/smile_store/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/smile_store/models/",
+    "services": "lib/features/smile_store/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.687066+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/smile_store/services/smile_store_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 13,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "kunal@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/smile_store/repository/smile_store_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "kunal@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/smile_store/repository/smile_store_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "kunal@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/smile_store/models/smile_store_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "kunal@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/smile_store/repository/smile_store_repository.dart": {
+      "last_modified": "2024-07-08",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "nishant.jain@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "tanisha@salescode.ai",
+        "kunal@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "rahul_gambhir@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

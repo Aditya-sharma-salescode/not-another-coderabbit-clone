@@ -1,0 +1,108 @@
+{
+  "feature_name": "buckets",
+  "source_paths": [
+    "lib/features/buckets/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/buckets/screens/",
+    "services": "lib/features/buckets/services/",
+    "widgets": "lib/features/buckets/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.671365+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/buckets/services/bucket_service.dart": {
+      "last_modified": "2026-02-20",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/buckets/widgets/toggle_bucket.dart": {
+      "last_modified": "2026-02-10",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/buckets/bucket_grid/widgets/bucket_item.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/buckets/bucket_carousel/widgets/carousel_item.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 7,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/buckets/bucket_carousel/widgets/carousel_collection.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/buckets/bucket_grid/widgets/bucket_grid.dart": {
+      "last_modified": "2026-01-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    },
+    "lib/features/buckets/bucket_carousel/widgets/filter_carousel.dart": {
+      "last_modified": "2026-01-13",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "ayush33156@gmail.com",
+        "harsh@applicatetechnology.com",
+        "shrey.parikh@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "tanvi.tomar@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

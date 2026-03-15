@@ -1,0 +1,362 @@
+{
+  "feature_name": "profile",
+  "source_paths": [
+    "lib/features/profile/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/profile/screens/",
+    "services": "lib/features/profile/services/",
+    "widgets": "lib/features/profile/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.683130+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "myProfile.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/profile/screens/logout_blank_screen.dart": {
+      "last_modified": "2026-02-23",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/screens/profile.dart": {
+      "last_modified": "2026-01-30",
+      "commit_count": 9,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/analytics.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/screens/profile_state_one.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/services/profile_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 3,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/repository/profile_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/repository/profile_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/screens/profile_image_upload.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/screens/profile_state_three.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/screens/profile_state_two.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/mobile_meta_data_update.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/mobile_update_stateone.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/otp_verification_dialogue_box.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/profile_custom_date_picker.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/seller_info.dart": {
+      "last_modified": "2025-11-28",
+      "commit_count": 5,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/repository/profile_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/date_picker_row.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/lower_seller.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/name_update.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/profile_details.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    },
+    "lib/features/profile/widgets/profile_details_state1.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "kunal@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "abhay.dixit@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,31 @@
+{
+  "feature_name": "sfa_store_in",
+  "source_paths": [
+    "lib/sfa/features/store_in/"
+  ],
+  "sub_paths": {
+    "provider": "lib/sfa/features/store_in/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.701615+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/store_in/services/store_in_services.dart": {
+      "last_modified": "",
+      "commit_count": 4,
+      "authors": [
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/store_in/provider/storein_storeout_provider.dart": {
+      "last_modified": "2024-01-06",
+      "commit_count": 1,
+      "authors": [
+        "45666123+kunalbathla@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

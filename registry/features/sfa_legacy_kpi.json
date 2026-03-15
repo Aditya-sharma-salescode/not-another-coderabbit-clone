@@ -1,0 +1,268 @@
+{
+  "feature_name": "sfa_legacy_kpi",
+  "source_paths": [
+    "lib/sfa/features/legacy_kpi/"
+  ],
+  "sub_paths": {
+    "services": "lib/sfa/features/legacy_kpi/services/",
+    "provider": "lib/sfa/features/legacy_kpi/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.694218+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/legacy_kpi/provider/kpi_multi_ach_provider.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/assortment_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/buyer_client_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/damages_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/dynamic_conversion_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/eco_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/gtm_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/gtm_tracking_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/hvp_value_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/kpi_interface.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/kpi_review_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/kpi_supervisor_interface.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/msl_distribution_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/mss_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/outlet_coverage_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/primary_order_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/priority_product_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/product_sales_update_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/productive_call_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/productivity_and_coverage_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/productivity_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/recovery_plan_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/refrence_share_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/sales_eco_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/sales_value_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/sales_value_subD_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/sales_volume_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/secondary_order_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/sku_adherence_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/smile_store_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/snd_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/unforgettableSKU_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/value_tie_up_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/visit_compliance_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/services/volume_tie_up_kpi_service.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/legacy_kpi/utils/kpi_utils.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "tanisha@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

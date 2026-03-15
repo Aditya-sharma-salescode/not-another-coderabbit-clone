@@ -1,0 +1,216 @@
+{
+  "feature_name": "ck_pjp_dashboard",
+  "source_paths": [
+    "lib/channelKart/features/pjp_dashboard/"
+  ],
+  "sub_paths": {
+    "screens": "lib/channelKart/features/pjp_dashboard/screens/",
+    "services": "lib/channelKart/features/pjp_dashboard/services/",
+    "provider": "lib/channelKart/features/pjp_dashboard/provider/",
+    "widgets": "lib/channelKart/features/pjp_dashboard/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.706119+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/channelKart/features/pjp_dashboard/services/pjp_dashboard_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/calender_outlet_details.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/pjp_dashboard_calender_Details.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/pjp_dashboard_details_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/pjp_dashboard_user_info.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/pjp_table_pagination_bar.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/supervisor_pjp_dashboard_details.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/provider/pjp_dashboard_provider.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 10,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/screens/pjp_dashboard_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/screens/supervisor_pjp_dashboard_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/calender_header_info.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/calender_outlet_count_info.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/pjp_calender.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/pjp_calender_dateItem.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/sales_rep_cards.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/sales_rep_search_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 5,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/channelKart/features/pjp_dashboard/widgets/supervisor_dashboard_user_info.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "vishnuvnair843@gmail.com",
+        "vishnu.pv@salescode.ai",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

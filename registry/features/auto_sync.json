@@ -1,0 +1,63 @@
+{
+  "feature_name": "auto_sync",
+  "source_paths": [
+    "lib/features/auto_sync/"
+  ],
+  "sub_paths": {
+    "services": "lib/features/auto_sync/services/"
+  },
+  "last_updated": "2026-03-15T10:12:37.670411+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/auto_sync/services/live_price_sync_service.dart": {
+      "last_modified": "2026-03-03",
+      "commit_count": 12,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/auto_sync/services/auto_sync_service.dart": {
+      "last_modified": "2025-12-19",
+      "commit_count": 8,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    },
+    "lib/features/auto_sync/auto_sync.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "ayush33156@gmail.com",
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "ayush.gupta@salescode.ai",
+        "54946822+RishabhPathak1211@users.noreply.github.com",
+        "rahul_gambhir@applicatetechnology.com"
+      ]
+    }
+  },
+  "related_features": []
+}

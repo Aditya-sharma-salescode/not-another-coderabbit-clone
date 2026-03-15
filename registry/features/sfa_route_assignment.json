@@ -1,0 +1,130 @@
+{
+  "feature_name": "sfa_route_assignment",
+  "source_paths": [
+    "lib/sfa/features/route_assignment/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/route_assignment/screens/",
+    "services": "lib/sfa/features/route_assignment/services/",
+    "provider": "lib/sfa/features/route_assignment/provider/",
+    "widgets": "lib/sfa/features/route_assignment/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.700536+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/route_assignment/services/route_assignment_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 11,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/route_assignment/provider/route_assignment_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/route_assignment/widgets/route_assignment_tiles.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 8,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/route_assignment/screens/route_assignment_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/route_assignment/widgets/route_assignment_body.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/route_assignment/widgets/route_dropdown.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    },
+    "lib/sfa/features/route_assignment/widgets/search_route_widget.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 2,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "prateekgarg2208@gmail.com",
+        "kunal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ayush.gupta@salescode.ai",
+        "paras.rawat@salescode.ai",
+        "vishnuvnair843@gmail.com",
+        "63542598+vishnuvnair843@users.noreply.github.com",
+        "nishantpuri1331@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

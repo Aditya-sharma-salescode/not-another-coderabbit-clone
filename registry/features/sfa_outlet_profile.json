@@ -1,0 +1,98 @@
+{
+  "feature_name": "sfa_outlet_profile",
+  "source_paths": [
+    "lib/sfa/features/outlet_profile/"
+  ],
+  "sub_paths": {
+    "screens": "lib/sfa/features/outlet_profile/screens/",
+    "services": "lib/sfa/features/outlet_profile/services/",
+    "provider": "lib/sfa/features/outlet_profile/provider/",
+    "widgets": "lib/sfa/features/outlet_profile/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.698219+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/outlet_profile/widgets/outlet_profile_details_sub_screen.dart": {
+      "last_modified": "2026-03-09",
+      "commit_count": 8,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_profile/services/outlet_profile_services.dart": {
+      "last_modified": "2026-02-17",
+      "commit_count": 7,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_profile/provider/outlet_profile_details_provider.dart": {
+      "last_modified": "2026-02-05",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_profile/widgets/month_summary_card_new.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    },
+    "lib/sfa/features/outlet_profile/widgets/visit_summary_card_new.dart": {
+      "last_modified": "2026-02-04",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "hiya.arora@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "tanisha@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "deepanshu.tyagi@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

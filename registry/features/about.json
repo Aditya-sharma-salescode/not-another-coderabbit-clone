@@ -1,0 +1,72 @@
+{
+  "feature_name": "about",
+  "source_paths": [
+    "lib/features/about/"
+  ],
+  "sub_paths": {
+    "screens": "lib/features/about/screens/"
+  },
+  "last_updated": "2026-03-15T10:12:37.668943+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "about_Generic.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/about/analytics.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 1,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "suchintan.das@salescode.ai"
+      ]
+    },
+    "lib/features/about/screens/about.dart": {
+      "last_modified": "2026-01-02",
+      "commit_count": 15,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "suchintan.das@salescode.ai"
+      ]
+    },
+    "lib/features/about/screens/company_info.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "rahul_gambhir@applicatetechnology.com",
+        "113329037+DeepanshuTyagi2004@users.noreply.github.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "bhavik.choudhary@applicatetechnology.com",
+        "45666123+kunalbathla@users.noreply.github.com",
+        "ishan.chopra@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "rishabh@applicatetechnology.com",
+        "118304100+ishanchopra144@users.noreply.github.com",
+        "suchintan.das@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

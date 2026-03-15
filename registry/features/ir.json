@@ -1,0 +1,230 @@
+{
+  "feature_name": "ir",
+  "source_paths": [
+    "lib/features/ir/"
+  ],
+  "sub_paths": {
+    "models": "lib/features/ir/models/",
+    "provider": "lib/features/ir/provider/",
+    "widgets": "lib/features/ir/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.677185+00:00",
+  "lob_context": {
+    "common_features_eb2b": {
+      "has_custom_tests": true,
+      "override_pages": [
+        "fireBasenotification.dart"
+      ],
+      "config_keys": [],
+      "notes": ""
+    }
+  },
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/ir/service/ir_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 13,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/repository/ir_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/repository/ir_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/repository/persist_image_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/widgets/ir_guide_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/widgets/ir_status_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/widgets/ir_task_item.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/widgets/ir_tasks_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/analytics.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/models/ir_model_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/provider/ir_provider.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 3,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/repository/ir_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/repository/persist_image_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/repository/persist_image_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/service/persist_image_service.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/widgets/ir_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/features/ir/utils/ir_status_mapper.dart": {
+      "last_modified": "2025-11-24",
+      "commit_count": 2,
+      "authors": [
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "aayushsharma0909@gmail.com",
+        "aayush.sharma@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

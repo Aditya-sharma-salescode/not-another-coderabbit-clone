@@ -1,0 +1,499 @@
+{
+  "feature_name": "consumer_catalogue",
+  "source_paths": [
+    "lib/features/consumer_catalogue/"
+  ],
+  "sub_paths": {
+    "model": "lib/features/consumer_catalogue/model/",
+    "screens": "lib/features/consumer_catalogue/screens/",
+    "services": "lib/features/consumer_catalogue/services/",
+    "provider": "lib/features/consumer_catalogue/provider/",
+    "widgets": "lib/features/consumer_catalogue/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.672734+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/consumer_catalogue/widgets/added_button.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/services/consumer_catalog_services.dart": {
+      "last_modified": "2026-01-27",
+      "commit_count": 7,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/provider/consumer_cart_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/provider/consumer_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/repository/consumer_catalog_repository_app.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/repository/consumer_catalog_repository_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_checkout_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_order_placed.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_order_summary_web.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_order_tracking_subscreen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/extra_product_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 7,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/update_catalog.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/update_catalog_tabs.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/consumer_datepicker_bar.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/consumer_footer_bar.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/consumer_summary_details.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/model/consumer_cart_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/model/consumer_catalog_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/model/consumer_product_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/model/consumer_summary_card_ui.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/model/consumer_summary_dummy_data.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/repository/consumer_catalog_repository.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_catalog_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_order_summary.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/consumer_order_tracking.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/screens/recently_purchased_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 4,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/consumer_order_details_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/consumer_order_summary_card.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/edit_dropdown.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    },
+    "lib/features/consumer_catalogue/widgets/edit_textfield.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "60125934+rishabh1999bhatt@users.noreply.github.com",
+        "karan.kumar@salescode.ai",
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "premjeet.singh@salescode.ai",
+        "bhadriroopin748@gmail.com",
+        "ayush.gupta@salescode.ai",
+        "sharma.aditya9164@gmail.com",
+        "saiyam.verma@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}

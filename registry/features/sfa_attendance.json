@@ -1,0 +1,319 @@
+{
+  "feature_name": "sfa_attendance",
+  "source_paths": [
+    "lib/sfa/features/attendance/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/attendance/models/",
+    "screens": "lib/sfa/features/attendance/screens/",
+    "services": "lib/sfa/features/attendance/services/",
+    "provider": "lib/sfa/features/attendance/provider/",
+    "widgets": "lib/sfa/features/attendance/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.690771+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/attendance/provider/attendance_provider.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 5,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendancetab.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 8,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/attendance_profile_card.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 5,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/attendance_dashboard_details_popup.dart": {
+      "last_modified": "2025-12-17",
+      "commit_count": 10,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/models/attendance_ui.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendance_correction.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendance_dashboard.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendance_salesrep_list.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendance_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendance_supervisor_dashboard.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/services/attendance_service.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 4,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/attendance_calender.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/attendance_calender_dateItem.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/attendance_status_radio_buttons.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 3,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/monthly_attendance_info.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 2,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/repository/attendance_repository_app.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/repository/attendance_repository_web.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/attendance_supervisor_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/screens/salesrep_calender_screen.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/attendance/widgets/attendance_search_bar.dart": {
+      "last_modified": "2025-11-27",
+      "commit_count": 1,
+      "authors": [
+        "kunyalik.kanwar@salescode.ai",
+        "nishant.jain@salescode.ai",
+        "mailidfornishantjain@gmail.com",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "nishantpuri1331@gmail.com",
+        "nishant.puri@salescode.ai",
+        "nikhil.sharma@salescode.ai",
+        "vishnu.pv@salescode.ai",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

@@ -1,0 +1,51 @@
+{
+  "feature_name": "sfa_availability_tracking",
+  "source_paths": [
+    "lib/sfa/features/availability_tracking/"
+  ],
+  "sub_paths": {
+    "provider": "lib/sfa/features/availability_tracking/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.691061+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/availability_tracking/provider/availabilty_tracking_provider.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 5,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/availability_tracking/screen/availability_tracking_screen.dart": {
+      "last_modified": "2025-12-03",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    },
+    "lib/sfa/features/availability_tracking/service/availability_tracking_service.dart": {
+      "last_modified": "2026-01-20",
+      "commit_count": 6,
+      "authors": [
+        "mishraaditya595@gmail.com",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "nishantpuri1331@gmail.com",
+        "45666123+kunalbathla@users.noreply.github.com"
+      ]
+    }
+  },
+  "related_features": []
+}

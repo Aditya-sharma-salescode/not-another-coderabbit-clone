@@ -1,0 +1,211 @@
+{
+  "feature_name": "sfa_cash_collection",
+  "source_paths": [
+    "lib/sfa/features/cash_collection/"
+  ],
+  "sub_paths": {
+    "models": "lib/sfa/features/cash_collection/models/",
+    "screens": "lib/sfa/features/cash_collection/screens/",
+    "services": "lib/sfa/features/cash_collection/services/",
+    "provider": "lib/sfa/features/cash_collection/provider/",
+    "widgets": "lib/sfa/features/cash_collection/widgets/"
+  },
+  "last_updated": "2026-03-15T10:12:37.691248+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/sfa/features/cash_collection/screens/invoice_details_screen.dart": {
+      "last_modified": "2026-02-27",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/screens/collection_history_detail_screen.dart": {
+      "last_modified": "2026-02-26",
+      "commit_count": 7,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/screens/collection_history_screen.dart": {
+      "last_modified": "2026-02-19",
+      "commit_count": 8,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/models/payment_collection_ui.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/provider/cash_collection_provider.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 4,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/repository/cash_collection_repository_app.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/screens/collection_invoice_list.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 3,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/screens/payment_collection_screen.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/widgets/collection_datepicker.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/screens/collect_amount_screen.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/models/collection_history_model.dart": {
+      "last_modified": "2026-02-12",
+      "commit_count": 2,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    },
+    "lib/sfa/features/cash_collection/services/cash_collection_service.dart": {
+      "last_modified": "2026-02-09",
+      "commit_count": 1,
+      "authors": [
+        "nishant.jain@salescode.ai",
+        "karan.kumar@salescode.ai",
+        "stuti.jain@salescode.ai",
+        "133590349+Sunishtha02@users.noreply.github.com",
+        "kshitiz.singhal@salescode.ai",
+        "101311193+AvijitRana424@users.noreply.github.com",
+        "kunal@salescode.ai",
+        "ayush.gupta@salescode.ai",
+        "saiyam.verma@salescode.ai",
+        "vermasaiyam9@gmail.com"
+      ]
+    }
+  },
+  "related_features": []
+}

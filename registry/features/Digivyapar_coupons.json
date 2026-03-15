@@ -1,0 +1,39 @@
+{
+  "feature_name": "Digivyapar_coupons",
+  "source_paths": [
+    "lib/features/Digivyapar_coupons/"
+  ],
+  "sub_paths": {
+    "provider": "lib/features/Digivyapar_coupons/provider/"
+  },
+  "last_updated": "2026-03-15T10:12:37.668649+00:00",
+  "lob_context": {},
+  "jira_history": [],
+  "git_file_history": {
+    "lib/features/Digivyapar_coupons/card/digivyapar_coupon_card.dart": {
+      "last_modified": "2026-01-21",
+      "commit_count": 6,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/Digivyapar_coupons/provider/digivyapar_coupons_provider.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 1,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    },
+    "lib/features/Digivyapar_coupons/widget/digivyapar_coupons_widget.dart": {
+      "last_modified": "2026-01-12",
+      "commit_count": 6,
+      "authors": [
+        "ayush.gupta@salescode.ai",
+        "priyansh.sikka@salescode.ai"
+      ]
+    }
+  },
+  "related_features": []
+}
